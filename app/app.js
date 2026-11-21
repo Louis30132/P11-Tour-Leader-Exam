@@ -87,8 +87,92 @@
     return n;
   }
 
+  /* ---------- 閱讀拆解／文法 共用元件 ---------- */
+  const passageRange = (key) => (key.match(/p(\d+)-(\d+)$/) || []).slice(1).join('–');
+  function sentenceHtml(s) {
+    return `<details class="sent"><summary>${esc(s.en)}</summary>
+      <div class="sent-body">
+        <p class="zh">${esc(s.zh)}</p>
+        ${s.w && s.w.length ? `<div class="words">${s.w.map(([w, z]) => `<span class="word"><b>${esc(w)}</b> ${esc(z)}</span>`).join('')}</div>` : ''}
+        ${s.s ? `<p class="struct"><span class="tag">句子結構</span> ${esc(s.s)}</p>` : ''}
+      </div></details>`;
+  }
+  // help=false：模擬考作答中，只給原文
+  function renderPassage(key, help) {
+    const r = BANK.reading && BANK.reading[key];
+    const label = `閱讀文章（第 ${passageRange(key)} 題）`;
+    if (!help || !r) {
+      const text = BANK.passages[key] || '';
+      return `<details class="passage" open><summary>${label}</summary>${text.split(/\n\n+/).map((t) => `<p>${esc(t)}</p>`).join('')}</details>`;
+    }
+    return `<details class="passage" open><summary>${label}・${esc(r.title)}</summary>
+      <details class="summary-box"><summary>💡 先看中文大意</summary><p>${esc(r.summary)}</p></details>
+      <p class="muted" style="margin:8px 0 4px">點任何一句，可以看翻譯、單字和句子結構。</p>
+      ${r.paras.map((p) => `<div class="para">${p.map(sentenceHtml).join('')}</div>`).join('')}
+    </details>`;
+  }
+  function grammarBox(q) {
+    if (!q.g) return '';
+    const t = (BANK.grammar || []).find((x) => x.id === q.gt);
+    return `<div class="gnote"><h3>📘 文法重點${t ? `：${esc(t.title)}` : ''}</h3><p>${esc(q.g)}</p>
+      ${t ? `<a href="#/grammar/${t.id}">看這個文法的完整說明 →</a>` : ''}</div>`;
+  }
+
+  /* ---------- 閱讀精讀 ---------- */
+  function reading(key) {
+    $title.textContent = '閱讀精讀';
+    const keys = Object.keys(BANK.reading || {}).sort().reverse();
+    if (!key || !BANK.reading[key]) {
+      $app.innerHTML = `<div class="card"><p style="margin-top:0">每篇考古題文章都拆成一句一句，點開可以看<strong>中文翻譯、難字和句子結構</strong>。</p>
+        <p class="muted" style="margin:0">建議讀法：① 先看中文大意 → ② 讀英文，看不懂的句子再點開 → ③ 做這篇的 5 題。</p></div>
+        <div class="card">${keys.map((k) => { const r = BANK.reading[k]; const ids = BANK.questions.filter((q) => q.p === k); const done = ids.filter((q) => state.rec[q.id]).length; return `
+          <div class="list-item row"><div class="spacer"><strong>${esc(r.title)}</strong><div class="muted">${k.slice(0, 3)} 年・第 ${passageRange(k)} 題・已練 ${done}/${ids.length}</div></div><button class="btn" data-go="#/reading/${k}">開始讀</button></div>`; }).join('')}</div>`;
+      bindGo();
+      return;
+    }
+    const r = BANK.reading[key];
+    const ids = BANK.questions.filter((q) => q.p === key).sort((a, b) => a.n - b.n).map((q) => q.id);
+    $app.innerHTML = `
+      <div class="card"><div class="muted">${key.slice(0, 3)} 年・英語・第 ${passageRange(key)} 題</div><h2 style="margin:4px 0 10px">${esc(r.title)}</h2>
+        <details class="summary-box" open><summary>💡 中文大意</summary><p>${esc(r.summary)}</p></details></div>
+      <div class="row" style="margin-bottom:10px"><button class="btn" id="expandAll">全部展開翻譯</button><button class="btn" id="collapseAll">全部收合</button></div>
+      <div class="card reading-page">${r.paras.map((p) => `<div class="para">${p.map(sentenceHtml).join('')}</div>`).join('')}</div>
+      <button class="btn primary block" id="practiceBtn">讀完了，練習這篇的 ${ids.length} 題</button>`;
+    $app.querySelector('#expandAll').onclick = () => $app.querySelectorAll('.reading-page details').forEach((d) => { d.open = true; });
+    $app.querySelector('#collapseAll').onclick = () => $app.querySelectorAll('.reading-page details').forEach((d) => { d.open = false; });
+    $app.querySelector('#practiceBtn').onclick = () => startSession({ mode: 'practice', ids, label: `閱讀：${r.title}` });
+  }
+
+  /* ---------- 文法小教室 ---------- */
+  function grammar(id) {
+    $title.textContent = '文法小教室';
+    const topics = BANK.grammar || [];
+    const t = topics.find((x) => x.id === id);
+    if (!t) {
+      $app.innerHTML = `<div class="card"><p style="margin:0">三年考古題裡考過的文法，整理成 ${topics.length} 個主題。每個主題有白話說明、例句、常見陷阱，以及考過的題目。</p></div>
+        <div class="card">${topics.map((x, i) => { const done = x.qs.filter((q) => state.rec[q]).length; return `
+          <div class="list-item row"><div class="spacer"><strong>${i + 1}. ${esc(x.title)}</strong><div class="muted">考過 ${x.qs.length} 題・已練 ${done}</div></div><button class="btn" data-go="#/grammar/${x.id}">看說明</button></div>`; }).join('')}</div>`;
+      bindGo();
+      return;
+    }
+    $app.innerHTML = `
+      <div class="card"><h2>${esc(t.title)}</h2><p class="rule">${esc(t.rule)}</p>${t.suffix ? `<p class="muted">${esc(t.suffix)}</p>` : ''}</div>
+      <div class="card"><h2>例句</h2>${t.examples.map(([en, zh]) => `<div class="list-item"><div><b>${esc(en)}</b></div><div class="muted">${esc(zh)}</div></div>`).join('')}</div>
+      ${t.traps ? `<div class="card trap"><h2>⚠ 常見陷阱</h2><p style="margin:0">${esc(t.traps)}</p></div>` : ''}
+      <div class="card"><h2>考古題裡的這個文法（${t.qs.length} 題）</h2>
+        ${t.qs.map((qid) => { const q = QMAP[qid]; return `<details class="list-item"><summary>${q.y} 年第 ${q.n} 題：${fmtStem(q.q.length > 70 ? q.q.slice(0, 70) + '…' : q.q)}</summary>
+          <p class="stem" style="font-size:16px;margin-top:8px">${fmtStem(q.q)}</p>
+          <ol type="A" style="margin:0 0 8px;padding-left:22px">${q.o.map((o, i) => `<li style="${q.a.includes(LETTERS[i]) ? 'color:var(--ok);font-weight:600' : ''}">${esc(o)}</li>`).join('')}</ol>
+          <p class="muted" style="margin:0">${esc(q.g)}</p></details>`; }).join('')}
+        <button class="btn primary block" id="gPractice" style="margin-top:12px">練習這 ${t.qs.length} 題</button>
+      </div>
+      <button class="btn block" data-go="#/grammar">← 回文法主題列表</button>`;
+    bindGo();
+    $app.querySelector('#gPractice').onclick = () => startSession({ mode: 'practice', ids: shuffle(t.qs), label: `文法：${t.title.split('：')[0]}` });
+  }
+
   /* ---------- 路由 ---------- */
-  const routes = { home, setup, quiz, result, wrong, stats, browse };
+  const routes = { home, setup, quiz, result, wrong, stats, browse, reading, grammar };
   function go(hash) { if (location.hash === hash) render(); else location.hash = hash; }
   function render() {
     clearInterval(timerId); timerId = null;
@@ -128,6 +212,8 @@
         <button class="action" data-go="#/setup/mock"><strong>模擬考</strong><span>照正式題數計時</span></button>
         <button class="action" data-go="#/wrong"><strong>錯題本</strong><span>${wr ? `${wr} 題待複習` : '目前沒有錯題'}</span></button>
         <button class="action" data-go="#/stats"><strong>弱點分析</strong><span>看哪裡最常錯</span></button>
+        <button class="action" data-go="#/reading"><strong>閱讀精讀</strong><span>文章逐句翻譯拆解</span></button>
+        <button class="action" data-go="#/grammar"><strong>文法小教室</strong><span>${(BANK.grammar || []).length} 個考過的文法</span></button>
       </div>
       <div class="card">
         <h2>各科進度</h2>
@@ -262,12 +348,10 @@
         <h3>${q.a.length === 4 ? '官方公告本題一律給分' : ok ? (q.a.length > 1 ? `答對了！（官方公告 ${q.a.join('、')} 都給分）` : '答對了！') : `答錯了：你選 ${chosen}，正確答案是 ${q.a.join('、')}`}</h3>
         <p>${esc(q.e || '（這題的解析還在整理中）')}</p>
         ${q.r ? '<div class="review-note">⚠ 待查核：這題的解析依官方答案撰寫，相關法規數字請以最新版本為準。</div>' : ''}
-      </div>`;
+      </div>${grammarBox(q)}`;
     }
 
-    const passage = q.p && BANK.passages[q.p]
-      ? `<details class="passage" open><summary>閱讀文章（第 ${(q.p.match(/p(\d+)-(\d+)$/) || []).slice(1).join('–')} 題）</summary>${BANK.passages[q.p].split(/\n\n+/).map((t) => `<p>${esc(t)}</p>`).join('')}</details>`
-      : '';
+    const passage = q.p ? renderPassage(q.p, !(isMock && !session.finished)) : '';
 
     $app.innerHTML = `
       <div class="progress"><i style="width:${pct(isMock ? answered : session.idx + (reveal ? 1 : 0), total)}%"></i></div>
@@ -387,7 +471,7 @@
       box.innerHTML = `<div class="qmeta"><span>${q.y} 年・${esc(subjName(q.s))}・第 ${q.n} 題</span>${q.t ? `<span class="tag">${esc(q.t)}</span>` : ''}</div>
         <p class="stem">${fmtStem(q.q)}</p>
         <div class="opts">${q.o.map((t, i) => { const L = LETTERS[i]; const cls = q.a.includes(L) ? 'right' : (ch === L ? 'wrong' : ''); return `<button class="opt ${cls}" disabled><span class="k">${L}</span><span class="v">${esc(t)}</span></button>`; }).join('')}</div>
-        <div class="verdict ${isCorrect(q, ch) ? 'ok' : 'bad'}"><h3>${ch ? (isCorrect(q, ch) ? '答對' : `你選 ${ch}，正確答案 ${q.a.join('、')}`) : `未作答，正確答案 ${q.a.join('、')}`}</h3><p>${esc(q.e)}</p>${q.r ? '<div class="review-note">⚠ 待查核：解析依官方答案撰寫，相關法規數字請以最新版本為準。</div>' : ''}</div>`;
+        <div class="verdict ${isCorrect(q, ch) ? 'ok' : 'bad'}"><h3>${ch ? (isCorrect(q, ch) ? '答對' : `你選 ${ch}，正確答案 ${q.a.join('、')}`) : `未作答，正確答案 ${q.a.join('、')}`}</h3><p>${esc(q.e)}</p>${q.r ? '<div class="review-note">⚠ 待查核：解析依官方答案撰寫，相關法規數字請以最新版本為準。</div>' : ''}</div>${grammarBox(q)}`;
       box.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
     const rw = $app.querySelector('#redoWrong');

@@ -1,0 +1,199 @@
+{
+ "topics": [
+  {
+   "id": "pos",
+   "title": "詞性判斷：名詞、動詞、形容詞、副詞",
+   "rule": "選項長得很像、只有字尾不同時，就是在考詞性。看空格「前後」需要什麼詞：\n• 修飾名詞 → 形容詞（a ____ trip → original）\n• 修飾動詞、形容詞或整句 → 副詞，多半是 -ly（____ predicted → originally）\n• 主詞後面缺動詞 → 動詞（Can you ____ which one… → identify）\n• 冠詞、介係詞後面 → 名詞（the ____ of your passport → validity）",
+   "suffix": "常見字尾：名詞 -tion、-ity、-ment、-ness；形容詞 -al、-ive、-ous、-ful、-able；副詞 -ly；動詞 -ize、-fy、-en",
+   "examples": [["The Lins originally planned a small party.", "林家原本計畫辦小型派對。（副詞 originally 修飾動詞 planned）"], ["Please check the validity of your passport.", "請檢查護照的效期。（the 後面接名詞 validity）"]],
+   "traps": "看到 -ly 不一定是副詞：friendly、lovely、lonely 都是形容詞。",
+   "notes": {
+    "113-english-18": "空格在 the Lins 和動詞 predicted 之間，用來修飾動詞「預測」，要用副詞 originally（原本地）。original 是形容詞，只能修飾名詞，例如 the original plan。",
+    "114-english-36": "Can you ____ which one… 中，Can you 後面缺一個原形動詞，所以選動詞 identify（辨認）。identity 是名詞（身分），identical 是形容詞（完全相同的）。",
+    "113-english-3": "house 常見的是名詞「房子」，但這裡放在主詞 This church 後面當動詞，意思是「容納、收藏」，還要配合主詞加 -s：houses。考試很愛考名詞當動詞用。"
+   }
+  },
+  {
+   "id": "participle",
+   "title": "分詞構句：句首或句尾的 V-ing／V-ed",
+   "rule": "兩個句子主詞相同時，可以把其中一句的連接詞和主詞省略，動詞改成：\n• 主動 → V-ing（Cruising through the Caribbean, passengers…）\n• 被動 → V-ed（Seriously impacted by a storm, this site…）\n放在句尾時常表示「結果」或「同時發生」：…trails, allowing everyone to enjoy… ＝ and this allows everyone to enjoy…",
+   "suffix": "判斷方法：先找出主句的主詞，再問「這個主詞是主動去做，還是被動被做？」",
+   "examples": [["Feeling tired, she went to bed early.", "因為覺得累，她早早就去睡了。（＝ Because she felt tired）"], ["Built in 1889, the Eiffel Tower is a famous landmark.", "建於 1889 年的艾菲爾鐵塔是著名地標。（塔是「被建造」→ Built）"]],
+   "traps": "句首分詞的主詞必須和主句主詞一致，不然就是錯的句子。",
+   "notes": {
+    "114-english-11": "句尾的 allowing everyone to enjoy… 是分詞構句，＝ and this allows everyone to enjoy…（這讓每個人都能…）。句型是 allow ＋ 人 ＋ to V。",
+    "115-english-43": "Fed up with the noise, the couple decided… 是過去分詞開頭的分詞構句，＝ Because they were fed up with the noise。be fed up with 是「受夠了」，主詞 the couple 是「被弄得厭煩」，所以用 Fed。",
+    "113-english-58": "Cruising through the Caribbean, passengers enjoyed… ＝ When passengers were cruising through…，主詞 passengers 是主動去航行，所以用 V-ing。"
+   }
+  },
+  {
+   "id": "with",
+   "title": "with ＋ 受詞 ＋ V-ing／V-ed（附帶狀況）",
+   "rule": "With ＋ 名詞 ＋ 分詞，用來描述「伴隨的背景狀況或原因」，中文常翻成「隨著…、因為…」。\n• 名詞主動做 → V-ing（With air fares rising…，票價在上漲）\n• 名詞被動 → V-ed（With his eyes closed…，眼睛被閉上）",
+   "suffix": "",
+   "examples": [["With prices rising, many tourists chose cheaper hotels.", "隨著物價上漲，很多遊客選擇較便宜的飯店。"], ["She sat there with her arms crossed.", "她雙手交叉坐在那裡。"]],
+   "traps": "注意分詞的主動或被動，要看 with 後面那個名詞，不是看句子的主詞。",
+   "notes": {
+    "113-english-70": "With air fares ____ faster than inflation 是「with ＋ 名詞 ＋ V-ing」句型：機票價格「正在上漲」，用 rising。從後面「獲利是預測的兩倍多」也能判斷是上漲，不是 stagnating（停滯）。"
+   }
+  },
+  {
+   "id": "gerund",
+   "title": "動名詞 V-ing vs. 不定詞 to V",
+   "rule": "有些字後面固定接 V-ing，常考的有：\n• 介係詞 to 後面接 V-ing：look forward to、be used to、commitment to、when it comes to\n• worth ＋ V-ing（值得…）\n• enjoy、mind、avoid、finish、consider、suggest ＋ V-ing\n有些字後面接 to V：want、plan、decide、hope、be willing to、be able to",
+   "suffix": "",
+   "examples": [["I'm looking forward to seeing you.", "我很期待見到你。（to 是介係詞 → seeing）"], ["This museum is worth visiting.", "這座博物館值得一去。"]],
+   "traps": "看到 to 不要直接接原形動詞，要先判斷它是不定詞的 to，還是介係詞的 to。",
+   "notes": {
+    "114-english-5": "worth 後面接動名詞：worth doing（值得做）。work worth doing ＝ 值得做的工作。",
+    "114-english-17": "look forward to 的 to 是介係詞，後面接名詞或 V-ing：I'm looking forward to the vacation／to taking a vacation。",
+    "114-english-31": "commitment to 的 to 也是介係詞，後面接 V-ing：commitment to transforming sustainability…（致力於把永續化為行動）。"
+   }
+  },
+  {
+   "id": "phrasal",
+   "title": "片語動詞：動詞 ＋ 介係詞／副詞",
+   "rule": "動詞加上小字（up、out、off、on、with…）之後，意思會整個改變，只能背。旅遊常考的片語動詞：\n• take off 起飛 ／ check in 入住 ／ check out 退房\n• put out 熄滅 ／ take out 拿出 ／ deal with 處理\n• get along with 相處融洽 ／ turn out (to be) 結果是 ／ add up to 總計",
+   "suffix": "",
+   "examples": [["The plane will take off in ten minutes.", "飛機十分鐘後起飛。"], ["Please put out your cigarette.", "請把香菸熄掉。"]],
+   "traps": "put on 穿上 ／ put off 延期 ／ put out 熄滅 ／ put up 張貼、搭建，只差一個字意思就完全不同。",
+   "notes": {
+    "115-english-53": "take off 是「（飛機）起飛」。其他選項：get rid of 擺脫，put off 延期，remove 移除。",
+    "115-english-55": "put out 是「熄滅」（菸、火）。put on 是穿上，put up 是張貼、搭建，put in 是放入。",
+    "115-english-61": "add up to 是「總計達」。It all adds up to NT$15,000 ＝ 總共是 15,000 元。",
+    "114-english-6": "deal with 是「處理」，後面接問題、事情：deal with the problem。",
+    "114-english-7": "get along with 是「和…相處融洽」，主詞要用「人」。",
+    "114-english-8": "turn out to be 是「結果是、原來是」，用來說「出乎預料的結果」：It turned out to be a great day.",
+    "114-english-37": "take out 是「拿出」：take out your wallet。hand in 是繳交，look out 是小心。",
+    "114-english-44": "check out (of the hotel) 是「退房」，check in 是「入住」。"
+   }
+  },
+  {
+   "id": "prep",
+   "title": "固定介係詞片語",
+   "rule": "有些詞後面一定要接特定的介係詞，常考的有：\n• beware of 小心 ／ abide by 遵守 ／ cater to 迎合 ／ switch to 切換到\n• on behalf of 代表 ／ en route to 在…途中 ／ in case of 萬一\n• be stranded in 受困於 ／ be allergic to 對…過敏",
+   "suffix": "",
+   "examples": [["Visitors must abide by the park rules.", "遊客必須遵守公園規定。"], ["I'm writing on behalf of the company.", "我代表公司寫信。"]],
+   "traps": "很多題目四個選項都是片語，要看懂句意才能選，所以平常背片語要連同中文意思一起記。",
+   "notes": {
+    "113-english-1": "beware of ＝「小心、提防」，常用在警告標示：Beware of falling rocks（小心落石）、Beware of the dog（內有惡犬）。",
+    "113-english-2": "cater to ＝「迎合、滿足（需求）」：cater to the needs of…。",
+    "113-english-68": "abide by ＝「遵守」，和 obey、follow、comply with 同義。",
+    "113-english-61": "switch to ＝「切換到」：switch to flight mode（切換成飛航模式）。",
+    "114-english-27": "on behalf of ＝「代表（某人或某組織）」，客訴道歉時很常用：I apologize on behalf of the company.",
+    "115-english-70": "en route to ＝「在前往…的途中」（法文借字，發音 [ɑn ˈrut]）。While we are en route to our next destination…"
+   }
+  },
+  {
+   "id": "passive",
+   "title": "被動語態：be ＋ 過去分詞",
+   "rule": "主詞是「被」做某件事的一方時，用 be ＋ p.p.。\n• The fare is deducted（車資「被」扣除）\n• They were stranded（他們「被困住」）\n判斷方法：問「主詞是自己做這個動作的嗎？」不是的話就用被動。",
+   "suffix": "",
+   "examples": [["Our flight was cancelled due to the typhoon.", "我們的班機因颱風被取消。"], ["Photos are not allowed in the museum.", "博物館內禁止拍照。"]],
+   "traps": "有些字習慣用被動表示狀態：be located in（位於）、be stranded（受困）、be denied entry（被拒入境）。",
+   "notes": {
+    "113-english-8": "were stranded in a blizzard ＝「被困在暴風雪中」。strand 原本是「使擱淺」，旅客是被困的一方，所以用被動。",
+    "115-english-42": "The fare is automatically deducted ＝「車資被自動扣除」，車資是被扣的對象，所以用 is ＋ p.p.。"
+   }
+  },
+  {
+   "id": "relative",
+   "title": "關係代名詞與「介係詞 ＋ which」",
+   "rule": "關係代名詞（who、which、that）把兩個句子接起來，修飾前面的名詞。\n• 原本的句子裡有介係詞時，可以把介係詞移到 which 前面：\nthe mistake from which we learn ＝ the mistake (which) we learn from\n• where ＝ in／at which：areas where demand rises ＝ areas in which demand rises",
+   "suffix": "",
+   "examples": [["This is the hotel which we stayed at.", "這是我們住過的飯店。＝ the hotel at which we stayed ＝ the hotel where we stayed"], ["He is the guide who helped us.", "他就是幫助我們的導遊。"]],
+   "traps": "介係詞放在前面時只能用 which 或 whom，不能用 that（✗ from that）。",
+   "notes": {
+    "114-english-4": "the one from which we learn nothing ＝ the mistake that we learn nothing from。句意：「唯一真正的錯誤，是我們從中『什麼都沒學到』的那個錯誤」，後一句「只有選擇學習，錯誤才會教我們」也呼應 nothing。"
+   }
+  },
+  {
+   "id": "adjto",
+   "title": "be ＋ 形容詞 ＋ to V",
+   "rule": "很多形容詞後面接 to V，表示「對做某事的態度或能力」：\n• be willing／unwilling to 願意／不願意\n• be free to 可以自由做\n• be able／unable to 能夠／不能\n• be eager to 渴望 ／ be likely to 可能",
+   "suffix": "",
+   "examples": [["You are free to leave at any time.", "你隨時可以離開。"], ["Few people are willing to work night shifts.", "很少人願意上夜班。"]],
+   "traps": "delighted 雖然也可以接 to（be delighted to 很高興去做），但語意要符合；delight 是動詞或名詞，不能放在 be 後面接 to。",
+   "notes": {
+    "114-english-2": "positions that native workers are unwilling to fill ＝「本國勞工『不願意』做的職缺」。從前半句「並沒有搶走工作」可知要選否定的 unwilling。",
+    "115-english-20": "be free to walk around ＝「可以自由走走」。available 是「有空的、可取得的」，語意不對。"
+   }
+  },
+  {
+   "id": "negation",
+   "title": "否定、部分否定與雙重否定",
+   "rule": "• not ＋ 負面字 ＝ 肯定，例如 not unreasonable ＝ 合理的\n• not always ＝ 不一定（部分否定），不是「從不」\n• never…without… ＝ 每次…都…\n做題時遇到 not，要先把句子翻成中文，再選一個「讓整句合理」的字。",
+   "suffix": "",
+   "examples": [["Expensive hotels are not always better.", "貴的飯店不一定比較好。"], ["I never travel without my passport copy.", "我每次旅行都會帶護照影本。"]],
+   "traps": "空格前面有 not，選項裡又有 in-、un-、dis- 開頭的否定字時，選了就會變成雙重否定，語意通常是反的。",
+   "notes": {
+    "114-english-19": "擾亂課堂的行為「是不可接受的」：not ＋ acceptable。如果選 offensive（冒犯的）或 inappropriate（不恰當的），加上 not 就變成「不冒犯」「不是不恰當」，意思剛好相反。",
+    "115-english-38": "空格後面說「至少要參觀六個以上」，所以要選 countless（無數的）。few 和 limited 都是否定意味的字，會和後面矛盾。"
+   }
+  },
+  {
+   "id": "purpose",
+   "title": "表示目的：To V…／in order to／for ＋ V-ing",
+   "rule": "• To ＋ V 放句首 ＝「為了…」：To claim the tax refund, you must…\n• in order to ＋ V、so as to ＋ V\n• for ＋ V-ing 表示用途：for refueling（用來加油）",
+   "suffix": "",
+   "examples": [["To catch the early train, we left at 5 a.m.", "為了趕早班火車，我們五點就出門。"], ["This room is used for storing luggage.", "這間房間用來放行李。"]],
+   "traps": "",
+   "notes": {
+    "113-english-62": "To ____ the tax refund, foreign travelers must apply… ＝「為了『申請』退稅，外國旅客必須…」。claim 是「要求、申請（應得的東西）」，claim a refund／claim baggage 都很常用。"
+   }
+  },
+  {
+   "id": "pair",
+   "title": "成對片語：動詞 A ＋ 介係詞 B",
+   "rule": "有些動詞要搭配兩個受詞和固定介係詞，要整組背：\n• replace A with B 用 B 取代 A\n• exchange A for B 用 A 換 B\n• leave A with B 讓 A 只剩 B\n• decouple A from B 使 A 和 B 脫鉤\n• provide A with B ＝ provide B for A 提供 B 給 A",
+   "suffix": "",
+   "examples": [["We replaced plastic straws with paper ones.", "我們用紙吸管取代塑膠吸管。"], ["You can exchange dollars for yen at the airport.", "你可以在機場用美元換日圓。"]],
+   "traps": "有兩個空格的題目，兩個空格都要對才算對，可以先用介係詞那一格刪去選項。",
+   "notes": {
+    "113-english-33": "replacing groundwater with recharge wells ＝「用補注井取代（抽取）地下水」。兩格的題目可以先看第二格：只有 with 能和 replacing 搭配成固定片語。",
+    "113-english-67": "exchange A for B ＝「用 A 換成 B」：exchange their currency for the local money（把自己的錢換成當地貨幣）。"
+   }
+  },
+  {
+   "id": "dialogue",
+   "title": "對話回應的固定說法",
+   "rule": "對話題要看「另一個人怎麼回」來反推問題，常見固定回應：\n• 遞東西給對方 → Here you are.／Here it is.\n• 答應請求 → Sure, no problem.／Certainly.／Of course.\n• 回應道謝 → You're welcome.／My pleasure.\n• 回應道歉 → That's all right.／No worries.",
+   "suffix": "",
+   "examples": [["A: May I see your passport? B: Here you are.", "「可以看一下您的護照嗎？」「在這裡。」"], ["A: Could you open the window? B: Sure, no problem.", "「可以開一下窗嗎？」「好的，沒問題。」"]],
+   "traps": "You're welcome 只能回應「謝謝」，不能回應請求；I don't think so 是不同意，很不禮貌。",
+   "notes": {
+    "113-english-15": "對方說「可以給我您的機票和護照嗎？」，遞東西時說 Here you are.（給你）。",
+    "113-english-37": "安檢人員下指令「請把包包放上輸送帶」，回應 Sure, no problem.（好的，沒問題）。You're welcome 是回應道謝用的。",
+    "113-english-49": "Certainly（當然）是肯定的回答，後面要接一致的內容：there is some room for negotiation（還有議價空間）。注意 room 在這裡是「空間、餘地」，不是房間。",
+    "115-english-57": "請求「可以幫我把包包放上去嗎？」，回應 Absolutely, let me lift it for you.（當然，我來幫您）。Absolutely 也是表示「絕對可以」的肯定回答。"
+   }
+  },
+  {
+   "id": "clause",
+   "title": "時間與條件子句：when、as soon as、if",
+   "rule": "• As soon as ＋ 句子 ＝「一…就…」：As soon as your date is fixed, book a ticket.\n• when／if 子句中，主詞相同時可以省略「主詞 ＋ be」：when (you are) promoting tourism → when promoting tourism\n• 表示未來的時間或條件子句用現在式，不用 will：If it rains tomorrow, we will…",
+   "suffix": "",
+   "examples": [["Call me as soon as you arrive.", "你一到就打給我。（arrive 用現在式）"], ["When traveling abroad, always carry a copy of your passport.", "出國時一定要帶護照影本。（＝ When you are traveling）"]],
+   "traps": "",
+   "notes": {
+    "113-english-7": "As soon as your traveling date is fixed ＝「旅行日期一確定」，後面接要做的事：book a flight ticket（訂機票）。",
+    "114-english-59": "when you're sober ＝「當你清醒時（沒喝酒）」。前面說 Don't drink，所以後面接「清醒時睡得比較好」，選 sober。"
+   }
+  },
+  {
+   "id": "confusable",
+   "title": "易混淆字：長得像、意思差很多",
+   "rule": "考題常把長得很像的字放在一起當陷阱，常見組合：\n• complimentary 免費招待的 ／ complementary 互補的\n• quite 相當 ／ quiet 安靜的\n• economical 省錢的 ／ economic 經濟上的\n• deport 驅逐出境 ／ depart 離開\n• identity 身分 ／ identify 辨認 ／ identical 完全相同的\n• attract 吸引 ／ distract 使分心 ／ retract 收回",
+   "suffix": "",
+   "examples": [["We offer complimentary breakfast.", "我們提供免費早餐。"], ["Please keep quiet in the museum.", "博物館內請保持安靜。"]],
+   "traps": "看到四個選項開頭字母都一樣（例如 ap-、ex-、com-），幾乎就是在考易混淆字，要逐一確認字義。",
+   "notes": {
+    "113-english-22": "complimentary tickets ＝「免費招待的票」（中間是 i，compliment 讚美）。complementary（中間是 e）是互補的，拼字只差一個字母。",
+    "115-english-24": "silent mode 是靜音模式。選項的 quite（相當）和 quiet（安靜的）拼字不同，是故意放的陷阱。",
+    "113-english-40": "economical ＝「省錢的、經濟實惠的」；economic ＝「經濟（學）上的」，例如 economic growth（經濟成長）。",
+    "115-english-62": "deport ＝「驅逐出境」（被動 be deported）；depart ＝「出發、離開」，是不及物動詞，不能用被動。",
+    "115-english-50": "attract pedestrians to come inside ＝「吸引路人進來」。attract／distract／retract 都是 -tract（拉）家族：吸引／使分心／收回。"
+   }
+  }
+ ]
+}

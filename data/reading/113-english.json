@@ -1,0 +1,62 @@
+{
+ "p71-75": {
+  "title": "直飛、不停靠、轉機有什麼不同？",
+  "summary": "這篇比較三種航班：①Direct（直飛）：不換飛機、只有一個航班號碼，但中途會停靠加油、上下客，比較慢、通常比不停靠便宜；②Non-stop（不停靠）：中途完全不停，最快也最貴，適合重視時間的商務客；③Layover（轉機）：中途要下機換班機，有多個航班號碼，通常最便宜；停留時間更長的叫 stopover。",
+  "paras": [
+   [
+    {"en": "Did you know there is a difference between a direct, non-stop and a layover flight?", "zh": "你知道直飛、不停靠和轉機航班之間有差別嗎？", "w": [["direct flight", "直飛班機（中途可能停靠）"], ["non-stop flight", "不停靠班機"], ["layover flight", "轉機班機"]]},
+    {"en": "Booking the right flight guarantees that you have chosen a flight that is comfortable and convenient for your travel schedule.", "zh": "訂對班機，才能確保你選的航班對你的行程來說舒適又方便。", "w": [["guarantee", "保證"], ["schedule", "行程、時間表"]], "s": "Booking the right flight（動名詞當主詞）guarantees that…。"}
+   ],
+   [
+    {"en": "Many people think a direct flight is the same as a non-stop flight.", "zh": "很多人以為直飛班機和不停靠班機是一樣的。", "w": [["the same as", "和…一樣"]]},
+    {"en": "Though the term ‘direct’ is used interchangeably with ‘non-stop’, the two are different.", "zh": "雖然「direct」這個詞常和「non-stop」混用，但兩者其實不同。", "w": [["term", "用語、術語"], ["interchangeably", "可互換地"]]},
+    {"en": "In a direct flight, you do not change planes and you have only one flight number.", "zh": "搭直飛班機，你不用換飛機，而且只有一個航班號碼。", "w": [["flight number", "航班號碼"]]},
+    {"en": "Unlike the non-stop flight, the plane makes a stop en route to the final destination for refueling and picking up and dropping off passengers.", "zh": "和不停靠班機不同，直飛班機在飛往最終目的地的途中會停靠，用來加油和上下乘客。", "w": [["en route to", "在前往…的途中"], ["refuel", "加油"], ["pick up / drop off", "接人 ／ 讓人下車"]], "s": "for ＋ V-ing 表示目的：for refueling and picking up and dropping off passengers。第 71、75 題的答案都在這句：停靠目的沒有「換機師」。"},
+    {"en": "If you are in a hurry, a direct flight may not be the right choice.", "zh": "如果你趕時間，直飛班機可能不是好選擇。", "w": [["in a hurry", "趕時間"]]},
+    {"en": "The stops add up to an hour or two to your total flight time.", "zh": "停靠會讓總飛行時間多出一兩個小時。", "w": [["add (up) to", "增加到…"]]},
+    {"en": "If time is not an issue, direct flights are ideal since they are often less expensive than non-stop flights.", "zh": "如果時間不是問題，直飛班機很理想，因為通常比不停靠班機便宜。", "w": [["issue", "問題"], ["ideal", "理想的"], ["less expensive", "比較便宜"]], "s": "since 在這裡是「因為」，不是「自從」。"}
+   ],
+   [
+    {"en": "A non-stop flight is just as it sounds – a flight that goes from one point to another without making a stop.", "zh": "不停靠班機就如字面意思：從一點飛到另一點，中途不停。", "w": [["as it sounds", "如字面所示"]]},
+    {"en": "Just like direct flights, non-stop flights have a single flight number.", "zh": "和直飛班機一樣，不停靠班機也只有一個航班號碼。", "w": [["single", "單一的"]]},
+    {"en": "Non-stop flights are mostly sought-after for business travelers who value time.", "zh": "不停靠班機最受重視時間的商務旅客青睞。", "w": [["sought-after", "很受歡迎的、搶手的"], ["value", "重視（動詞）"]], "s": "第 72 題答案原句。"},
+    {"en": "They are usually the most expensive flights.", "zh": "它們通常是最貴的班機。", "w": [["expensive", "昂貴的"]]},
+    {"en": "Passengers on non-stop flights are not affected by unexpected delays at the airport after takeoff, including refueling.", "zh": "搭不停靠班機的乘客，起飛後不會受到機場意外延誤的影響，包括加油。", "w": [["be affected by", "受…影響"], ["unexpected", "意外的"]]}
+   ],
+   [
+    {"en": "You can never mention a direct and non-stop flight without a layover flight.", "zh": "談到直飛和不停靠班機，就一定要提到轉機班機。", "w": [["mention", "提到"]], "s": "never…without… ＝ 每次…都會…（雙重否定表示肯定）。"},
+    {"en": "A layover flight is also called a connecting flight.", "zh": "轉機班機也叫做 connecting flight。", "w": [["connecting flight", "轉機航班"]]},
+    {"en": "If you book a layover flight, it means the plane will make a stop en route, with passengers disembarking the flight and changing services.", "zh": "如果你訂的是轉機班機，代表飛機途中會停靠，乘客要下機並換搭其他班機。", "w": [["disembark", "下機、下船"]], "s": "with ＋ 名詞 ＋ V-ing（with passengers disembarking…）表示伴隨的狀況。"},
+    {"en": "Long layovers approach stopover territory, which is, essentially, an even longer layover.", "zh": "轉機停留時間很長，就接近 stopover 的範圍了，stopover 基本上就是更長的轉機停留。", "w": [["approach", "接近"], ["territory", "領域、範圍"], ["essentially", "基本上"]], "s": "第 74 題答案原句：stopover 比 layover 更長（一般超過 24 小時就算 stopover）。"},
+    {"en": "Considering the high price range of both direct and non-stop flights, you may consider booking a layover flight since it is usually less expensive.", "zh": "考量到直飛和不停靠班機價格都偏高，你可以考慮訂轉機班機，因為通常比較便宜。", "w": [["considering", "考慮到（介係詞用法）"], ["price range", "價格範圍"]], "s": "第 73 題答案：layover 通常比 direct 和 non-stop 都便宜。"},
+    {"en": "Connecting flights have more than one flight number.", "zh": "轉機航班有不只一個航班號碼。", "w": [["more than one", "超過一個"]]}
+   ]
+  ]
+ },
+ "p76-80": {
+  "title": "出國前的準備",
+  "summary": "這篇是出國前的幾個小建議：①檢查護照效期，許多國家要求剩餘效期超過 6 個月，訂機票時就要確認；②事先確認是否需要簽證，否則可能無法登機；③研究目的地的語言、文化和法律差異，例如新加坡禁止嚼口香糖、威尼斯禁止餵鴿子、蘇格蘭禁止酒醉騎牛，先知道就不會惹麻煩。",
+  "paras": [
+   [
+    {"en": "There are some simple tips for what to do before traveling internationally.", "zh": "以下是一些出國前該做什麼的簡單建議。", "w": [["tip", "訣竅、建議"], ["internationally", "國際地"]], "s": "這句就是全文主旨，第 76 題答案：Preparing for international travel。"},
+    {"en": "First, the validity of your passport can be an easy oversight.", "zh": "首先，護照效期是很容易被忽略的事。", "w": [["validity", "有效性、效期"], ["oversight", "疏忽"]]},
+    {"en": "A passport validity of 10 years can make people complacent, forgetting that it actually requires renewing.", "zh": "護照效期長達 10 年，容易讓人鬆懈，忘了它其實需要換發。", "w": [["complacent", "自滿的、鬆懈的"], ["renew", "更新、換發"]], "s": "forgetting… 是分詞構句，表示結果。require ＋ V-ing ＝ 需要被…（requires renewing ＝ needs to be renewed）。第 77 題答案。"},
+    {"en": "Many countries won’t allow entry if your passport has less than 6 months remaining.", "zh": "如果你的護照剩餘效期不到 6 個月，許多國家不會讓你入境。", "w": [["allow entry", "允許入境"], ["remaining", "剩下的"]]},
+    {"en": "A good rule of thumb is to ensure your passport is valid when booking your flight.", "zh": "一個好的經驗法則是：訂機票時就確認護照有效。", "w": [["rule of thumb", "經驗法則"], ["ensure", "確保"], ["valid", "有效的"]]}
+   ],
+   [
+    {"en": "Additionally, check in advance if you need a visa.", "zh": "另外，要事先確認是否需要簽證。", "w": [["additionally", "此外"], ["in advance", "事先"]]},
+    {"en": "Arriving for your flight without the necessary visa can lead to being denied boarding, especially if you can’t apply for one on arrival.", "zh": "沒有必要的簽證就去搭機，可能會被拒絕登機，尤其是無法辦理落地簽的時候。", "w": [["lead to", "導致"], ["deny boarding", "拒絕登機"], ["on arrival", "抵達時（落地簽 visa on arrival）"]], "s": "Arriving… without the necessary visa（動名詞當主詞）can lead to being denied（lead to 後面接 V-ing；這裡是被動 being denied）。"},
+    {"en": "US and UK passport holders can travel to many countries without a visa or receive one upon arrival.", "zh": "持美國和英國護照的人可以免簽前往許多國家，或在抵達時取得簽證。", "w": [["passport holder", "護照持有人"], ["upon arrival", "一抵達就"]]},
+    {"en": "However, entry requirements vary, so thorough research is essential.", "zh": "不過，入境規定各不相同，所以徹底研究很重要。", "w": [["requirement", "規定、要求"], ["vary", "不同、變化"], ["thorough", "徹底的"], ["essential", "必要的"]]}
+   ],
+   [
+    {"en": "Investing time in researching your destination is also important to optimize your experience.", "zh": "花時間研究目的地，對讓旅程更完美也很重要。", "w": [["invest time in", "投入時間在…"], ["optimize", "最佳化"]], "s": "Investing time in researching…（動名詞當主詞）is also important。"},
+    {"en": "While spontaneous travel seems fun, being aware of the nuances of your destination country can be more practical.", "zh": "雖然說走就走的旅行看起來很有趣，但了解目的地國家的細微差異會更實際。", "w": [["spontaneous", "自發的、臨時起意的"], ["be aware of", "察覺、了解"], ["nuance", "細微差異"], ["practical", "實際的"]], "s": "While 放句首 ＝「雖然」。第 78 題考 nuances ＝ subtle differences（細微差異）。"},
+    {"en": "This includes understanding differences in language, culture, and laws.", "zh": "這包括了解語言、文化和法律上的差異。", "w": [["include", "包括"]]},
+    {"en": "For instance, chewing gum is illegal in Singapore, feeding pigeons is prohibited in Venice, and riding a cow while intoxicated is not allowed in Scotland.", "zh": "例如，在新加坡嚼口香糖是違法的，在威尼斯禁止餵鴿子，在蘇格蘭不准酒醉時騎牛。", "w": [["illegal", "違法的"], ["prohibited", "被禁止的"], ["intoxicated", "喝醉的"]], "s": "三個動名詞主詞並列：chewing gum / feeding pigeons / riding a cow。第 80 題答案：威尼斯禁止餵鴿子。"},
+    {"en": "Knowing them ahead of time can keep you out of trouble.", "zh": "事先知道這些規定，可以讓你遠離麻煩。", "w": [["ahead of time", "事先"], ["keep…out of trouble", "使…免於麻煩"]], "s": "them 指前一句提到的那些 laws（第 79 題）。"}
+   ]
+  ]
+ }
+}

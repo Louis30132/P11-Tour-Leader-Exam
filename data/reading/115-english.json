@@ -1,0 +1,56 @@
+{
+ "p71-75": {
+  "title": "觀光對當地的影響",
+  "summary": "這篇在講觀光對當地的「好處」與「壞處」。好處：遊客花錢帶動經濟，並創造旅館、餐廳以及營建、零售等行業的工作機會。壞處：利潤多流向大型外資企業，當地分到的很少；旺季時物價上漲，居民生活成本變高。結論：推動觀光要同時考慮正反兩面。",
+  "paras": [
+   [
+    {"en": "When people travel to other parts of the world, their footprints often leave effects on the visited places.", "zh": "當人們到世界其他地方旅行時，他們的足跡常會對到訪的地方留下影響。", "w": [["footprint", "足跡"], ["effect", "影響"]]},
+    {"en": "One of the most immediate and visible effects brought by tourism onto local communities can be seen in the aspect of economic growth.", "zh": "觀光為當地社區帶來最直接、最明顯的影響之一，可以從經濟成長這方面看出來。", "w": [["immediate", "立即的、直接的"], ["visible", "看得見的、明顯的"], ["aspect", "方面"]], "s": "主詞很長：One of the most…effects（brought by tourism onto local communities 是修飾 effects 的分詞片語）＋ 動詞 can be seen（被動）＋ in the aspect of economic growth。抓主幹：「最明顯的影響之一，可見於經濟成長」。"},
+    {"en": "Tourism is often a primary source of income for many regions, especially those rich in natural beauty, historical importance, or cultural heritage.", "zh": "觀光常是許多地區的主要收入來源，尤其是那些自然景觀豐富、具歷史重要性或文化遺產豐富的地區。", "w": [["primary", "主要的"], ["source of income", "收入來源"], ["heritage", "遺產"]], "s": "those rich in… ＝ those (regions which are) rich in…，省略了「which are」，those 代替前面的 regions。"},
+    {"en": "When most tourists visit a location, they spend money on accommodation, food, transportation, and entertainment, all directly contributing to the local economy.", "zh": "大多數遊客造訪一個地方時，會把錢花在住宿、餐飲、交通和娛樂上，這些全都直接貢獻給當地經濟。", "w": [["accommodation", "住宿"], ["contribute to", "貢獻於、促成"]], "s": "句尾 all directly contributing… 是分詞構句，all 指前面那四項花費，＝ and all of them directly contribute to…。"},
+    {"en": "This influx of capital also creates many job opportunities, not only in tourism-related industries like hotels, restaurants, and travel agencies but also in other sectors that support tourism, such as construction and retail business.", "zh": "這波資金湧入也創造了許多工作機會，不只在旅館、餐廳、旅行社等觀光相關產業，也在營建、零售等支援觀光的其他行業。", "w": [["influx", "湧入"], ["capital", "資金"], ["sector", "部門、行業"], ["retail", "零售"]], "s": "句型 not only A but also B（不只 A，也 B）。A ＝ in tourism-related industries…，B ＝ in other sectors that support tourism。第 72 題的答案就藏在這裡。"}
+   ],
+   [
+    {"en": "However, some negative effects also exist.", "zh": "然而，也存在一些負面影響。", "w": [["negative", "負面的"]]},
+    {"en": "For example, the economic benefits of tourism are not always equitably distributed.", "zh": "例如，觀光的經濟利益並不總是公平分配的。", "w": [["equitably", "公平地"], ["distribute", "分配"]], "s": "not always ＝「不一定、並非總是」，是部分否定，不是「從不」。"},
+    {"en": "In some cases, the majority of profits go to large, foreign-owned companies, leaving local businesses and workers with only a small percentage of the generated income.", "zh": "有些情況下，大部分利潤流向大型外資企業，讓當地商家和勞工只分到所產生收入的一小部分。", "w": [["majority", "大多數"], ["foreign-owned", "外資擁有的"], ["percentage", "百分比、比例"]], "s": "leaving A with B 是分詞構句，表示前面那件事造成的結果：「（利潤流向外資）結果讓 A 只剩下 B」。第 74 題考這句。"},
+    {"en": "In other cases, tourism leads to inflation and drives up the cost of living for local residents, particularly in areas where the demand for goods and services rises sharply during peak tourist seasons.", "zh": "另一些情況下，觀光會導致通貨膨脹、推高當地居民的生活成本，特別是在旅遊旺季時商品與服務需求急遽上升的地區。", "w": [["inflation", "通貨膨脹"], ["drive up", "推高"], ["cost of living", "生活成本"], ["peak season", "旺季"]], "s": "areas where… 是關係副詞子句，where 引導的子句修飾 areas：「在那些（旺季需求大增）的地區」。"}
+   ],
+   [
+    {"en": "Clearly, when promoting tourism, both the positive and negative effects must be taken into consideration.", "zh": "顯然，在推動觀光時，正面和負面的影響都必須納入考量。", "w": [["promote", "推廣"], ["take…into consideration", "把…列入考慮"]], "s": "when promoting ＝ when we are promoting（省略主詞和 be 動詞）。must be taken 是被動語態。這句是全文結論，第 71、75 題都要靠它。"}
+   ]
+  ]
+ },
+ "p76-80": {
+  "title": "旅遊業的淨零排放之路",
+  "summary": "這篇是旅遊業「淨零碳排」的研究報告摘要。重點：已有 53% 的企業公布氣候目標，很多正在修訂成符合科學標準；但實際執行太慢，還有碳排放量測、法規零散、報告標準不一、預算不足等挑戰，中小企業特別需要協助。結論：要靠新技術和替代燃料，才能在 2050 年前達成淨零。",
+  "paras": [
+   [
+    {"en": "While progress towards decarbonisation has been made, this research highlights the diversity within the sector, differences in context as well as variety in commitments across industries and companies in Travel & Tourism.", "zh": "雖然在減碳方面已有進展，這份研究凸顯了旅遊業內部的多樣性：各行業與各公司之間背景不同，承諾也各不相同。", "w": [["decarbonisation", "減碳、去碳化"], ["highlight", "凸顯、強調"], ["diversity", "多樣性"], ["commitment", "承諾"]], "s": "While 在句首表示「雖然」（不是「當…時」）。主幹：this research highlights A, B as well as C。"},
+    {"en": "The sector must continue developing long-term strategies and targets consistent with the Paris Agreement and latest scientific recommendations, aligned to relevant national and international policies and strategies, to achieve net zero emissions goals.", "zh": "這個產業必須持續制定長期策略與目標，這些策略要符合《巴黎協定》和最新的科學建議，並配合相關的國家與國際政策，以達成淨零排放的目標。", "w": [["consistent with", "與…一致"], ["aligned to", "與…配合"], ["net zero", "淨零（排放）"], ["emission", "排放"]], "s": "主幹只有：The sector must continue developing strategies and targets … to achieve net zero goals（為了達成淨零）。中間的 consistent with… 和 aligned to… 都是補充說明 strategies 要符合什麼，第一次讀可以先跳過。"}
+   ],
+   [
+    {"en": "The analysis showed that 53% of the Travel & Tourism businesses analysed currently have publicly announced climate targets.", "zh": "分析顯示，受分析的旅遊業企業中有 53% 已公開宣布氣候目標。", "w": [["analyse", "分析"], ["publicly", "公開地"], ["announce", "宣布"]], "s": "businesses analysed ＝ businesses (that were) analysed，過去分詞放在名詞後面修飾。"},
+    {"en": "Though many targets are not yet based on the latest science, it is promising to see that many businesses are currently in the process of revising and adapting their targets to reach standards like those set by SBTi, and many others, putting climate action much higher on their priority lists.", "zh": "雖然許多目標還沒有以最新科學為依據，但可喜的是，許多企業正在修訂、調整目標，以達到 SBTi（科學基礎減碳目標倡議）等機構訂定的標準，並把氣候行動放在更優先的位置。", "w": [["promising", "有希望的、令人欣慰的"], ["revise", "修訂"], ["adapt", "調整"], ["priority", "優先事項"]], "s": "Though…（讓步：雖然）, it is promising to see that…（虛主詞 it，真正主詞是 to see that…）。第 77 題的答案就是這句。"},
+    {"en": "Of course, key for monitoring this progress will also be the transparent sharing of these activities through more harmonised methodologies.", "zh": "當然，要監督這些進展，關鍵也在於用更一致的方法，透明地分享這些作為。", "w": [["monitor", "監測、監督"], ["transparent", "透明的"], ["harmonised", "協調一致的"], ["methodology", "方法論"]], "s": "這是倒裝句。正常語序：The transparent sharing of these activities will also be key for monitoring this progress（透明分享將是關鍵）。"}
+   ],
+   [
+    {"en": "Overall, the Travel & Tourism sector has made progress since the 2021 edition of Net Zero Roadmap but still needs to accelerate efforts to meet the 2050 target.", "zh": "整體而言，自 2021 年版《淨零路徑圖》以來，旅遊業已有進展，但仍需加快腳步，才能達成 2050 年的目標。", "w": [["overall", "整體而言"], ["edition", "版本"], ["accelerate", "加速"]]},
+    {"en": "More businesses have climate targets, but implementation and execution have been slower than what is needed.", "zh": "越來越多企業有氣候目標，但落實和執行的速度都比需要的慢。", "w": [["implementation", "實施、落實"], ["execution", "執行"]]},
+    {"en": "A strong volume recovery highlights the need for continued focus on decarbonisation, particularly in certain geographies experiencing strong growth.", "zh": "（疫後）旅遊量強勁回升，更凸顯需要持續專注減碳，特別是在某些成長強勁的地區。", "w": [["volume", "數量、量"], ["recovery", "復甦"], ["geography", "地區（此處）"]], "s": "geographies experiencing strong growth ＝ geographies (that are) experiencing…，現在分詞修飾名詞。"},
+    {"en": "New target frameworks and net zero pathways have been established, but challenges remain in carbon data measurement, regulation, and infrastructure.", "zh": "新的目標架構和淨零路徑已經建立，但在碳數據量測、法規和基礎設施方面仍有挑戰。", "w": [["framework", "架構"], ["pathway", "路徑"], ["establish", "建立"], ["infrastructure", "基礎設施"]]}
+   ],
+   [
+    {"en": "Moving forward, progress will depend on addressing various challenges, some common to all focus industries and some more specific to individual ones.", "zh": "展望未來，進展將取決於如何因應各種挑戰，有些是所有重點產業共同面臨的，有些則是個別產業特有的。", "w": [["moving forward", "展望未來"], ["depend on", "取決於"], ["address", "處理、因應（動詞）"], ["specific", "特定的"]], "s": "address 在這裡是動詞「處理（問題）」，不是「地址」，考試很常出現。some common to…, some more specific to… 是補充說明 challenges 的兩種類型。"},
+    {"en": "These include emission measurement, especially Scope 3 emissions, the fragmented regulatory landscape, inconsistencies in reporting standards and insufficient budgets remains issues.", "zh": "這些挑戰包括：排放量測（尤其是範疇三排放）、零散的法規環境、報告標準不一致，以及預算不足。", "w": [["fragmented", "破碎的、零散的"], ["regulatory", "法規的"], ["inconsistency", "不一致"], ["insufficient", "不足的"]], "s": "（原文這句文法有瑕疵，句尾 remains issues 是多餘的，看懂列舉的四項即可。）第 78 題考 fragmented，第 79 題要對照這四項挑戰。"},
+    {"en": "Moreover, the special challenges for SMEs in the sector, which make up the majority of Travel & Tourism businesses, will require strong commitments from all stakeholders to increase collaboration and ensure inclusiveness.", "zh": "此外，中小企業占旅遊業的大多數，它們面臨的特殊挑戰，需要所有利害關係人做出堅定承諾，加強合作並確保包容性。", "w": [["SME", "中小企業（Small and Medium-sized Enterprises）"], ["make up", "構成"], ["stakeholder", "利害關係人"], ["collaboration", "合作"]], "s": "which make up the majority… 是插入的關係子句，補充說明 SMEs。主幹：the special challenges … will require strong commitments。"}
+   ],
+   [
+    {"en": "There are clear opportunities for Travel & Tourism to achieve net zero in many areas and industries even before 2050.", "zh": "旅遊業在許多領域和行業中，明顯有機會甚至在 2050 年之前就達成淨零。", "w": [["opportunity", "機會"], ["achieve", "達成"]]},
+    {"en": "However, as businesses define their commitments based on their respective corridors, they will require support, particularly for those businesses with hard-to-abate emissions.", "zh": "然而，當企業依各自的發展路徑訂定承諾時，它們會需要支援，特別是那些排放難以削減的企業。", "w": [["respective", "各自的"], ["corridor", "走廊；（此處）路徑"], ["hard-to-abate", "難以削減的"]]},
+    {"en": "As the sector pushes for the highest ambitions and an acceleration of climate action overall, it will have to join forces to strengthen the innovation needed for new technologies and alternative fuels to decouple Travel & Tourism growth rates from resource use and emissions for a net zero future.", "zh": "隨著產業追求最高目標並全面加速氣候行動，必須攜手強化新技術與替代燃料所需的創新，讓旅遊業的成長與資源使用、碳排放「脫鉤」，邁向淨零的未來。", "w": [["ambition", "抱負、目標"], ["join forces", "聯手"], ["alternative fuel", "替代燃料"], ["decouple A from B", "使 A 與 B 脫鉤"]], "s": "全文最長的一句，抓主幹：it will have to join forces to strengthen the innovation（必須聯手加強創新）。needed for new technologies and alternative fuels 修飾 innovation；to decouple… 說明目的。第 80 題的答案在這裡。"},
+    {"en": "There is no doubt, time is of the essence and our actions of today define our world of tomorrow.", "zh": "毫無疑問，時間至關重要，我們今天的行動決定了明天的世界。", "w": [["of the essence", "極為重要的"], ["define", "決定、定義"]]}
+   ]
+  ]
+ }
+}

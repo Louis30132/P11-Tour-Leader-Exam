@@ -1,0 +1,73 @@
+{
+ "p71-75": {
+  "title": "飛機上該坐哪一側？",
+  "summary": "這篇在討論搭飛機選「左側或右側」座位的考量，訪問了幾位旅客：①想看風景，可以先查航線，預測哪一側景色好（但航線可能會變）；②飛極地航線想看北極光，坐夜晚面北的一側，白天則坐背對太陽的一側；③睡覺習慣往右靠的人，選右側靠窗；④右撇子要用筆電，選左側靠走道。",
+  "paras": [
+   [
+    {"en": "Most travelers have a preference for window or aisle seats when it comes to air travel, but have you ever given thought to which side of the plane you should sit on?", "zh": "說到搭飛機，大多數旅客對靠窗或靠走道座位有偏好，但你有沒有想過應該坐飛機的哪一側？", "w": [["preference", "偏好"], ["aisle", "走道（s 不發音）"], ["when it comes to", "說到…"], ["give thought to", "考慮、想到"]]},
+    {"en": "We polled some passengers about which side of the aisle they prefer—here’s what they suggest when selecting your seat on an airplane.", "zh": "我們調查了一些乘客喜歡走道的哪一側，以下是他們對選位的建議。", "w": [["poll", "做民意調查"], ["suggest", "建議"]]}
+   ],
+   [
+    {"en": "Potential Views—If you prefer a window seat, you might want to check your potential flight path before picking a side.", "zh": "【可能的景色】如果你喜歡靠窗，選邊之前可以先查一下可能的飛行路線。", "w": [["potential", "可能的、潛在的"], ["flight path", "飛行路線"]]},
+    {"en": "“I really like the window seat and often try and predict which side will have a better view based on the logical flight path into the airport,” says Richard Campbell, founder of Travel Platform.", "zh": "Travel Platform 創辦人 Richard Campbell 說：「我很喜歡靠窗，常會根據飛進機場的合理路線，預測哪一側的景色比較好。」", "w": [["predict", "預測"], ["based on", "根據"], ["founder", "創辦人"]]},
+    {"en": "“I still remember my first international flight almost 25 years ago. I was flying into London Heathrow and sat on the right-hand side of the plane, looking out on the Thames and central London as we circled over the city for our approach into the airport. What a way to start a trip!”", "zh": "「我還記得將近 25 年前第一次搭國際線，飛往倫敦希斯洛機場，我坐在飛機右側，飛機在城市上空盤旋準備進場時，我看著泰晤士河和倫敦市中心。這樣展開旅程真是太棒了！」", "w": [["circle over", "在…上空盤旋"], ["approach", "（飛機）進場"]], "s": "looking out on… 是分詞構句，表示「同時在看著…」。What a way to start a trip! 是感嘆句。"},
+    {"en": "But keep in mind that no matter how much research you do, your flight might have other plans.", "zh": "但要記住，不論你做了多少研究，你的班機可能「另有安排」。", "w": [["keep in mind", "記住"], ["no matter how much", "不論多少"]], "s": "your flight might have other plans 是擬人化說法，意思是航線可能和你預測的不同。第 75 題就是考這句的意思。"}
+   ],
+   [
+    {"en": "What’s Going on in the Sky—It’s not all about the view below you.", "zh": "【天空中的現象】重點不只是下方的風景。", "w": [["not all about", "不全是關於…"]]},
+    {"en": "“If I’m flying a polar route, I try to be on the side of the plane that will face north during local nightfall in case I have an opportunity to witness the northern lights,” says atmospheric scientist Matthew Cappucci.", "zh": "大氣科學家 Matthew Cappucci 說：「如果飛極地航線，我會盡量坐在當地入夜時面向北方的那一側，以防有機會看到北極光。」", "w": [["polar route", "極地航線"], ["nightfall", "黃昏、入夜"], ["in case", "以防"], ["witness", "目睹"], ["northern lights", "北極光（＝aurora borealis）"]], "s": "the side of the plane that will face north 中，that 子句修飾 side。in case… ＝「以防萬一…」。第 72 題的答案是 aurora borealis，就是 northern lights 的另一個說法。"},
+    {"en": "But if you’re flying on a daytime flight, the sun is a more important consideration.", "zh": "但如果是白天的航班，太陽就是更重要的考量。", "w": [["consideration", "考量"]]},
+    {"en": "“Since I don’t like having the sun in my eyes, I try to sit on the opposite side of the sun,” says Cappucci. “Sitting on the sunny side also means being on the noticeably warmer side of the plane.”", "zh": "Cappucci 說：「因為我不喜歡陽光直射眼睛，所以會坐在背對太陽的那一側。」「坐在有陽光的那側，也代表會坐在飛機明顯比較熱的一邊。」", "w": [["opposite", "相反的"], ["noticeably", "明顯地"]], "s": "Sitting on the sunny side（動名詞當主詞）means being on…（mean ＋ V-ing ＝ 意味著）。"}
+   ],
+   [
+    {"en": "Sleeping Preference—Do you tend to lean right or left when dozing off on a plane?", "zh": "【睡覺習慣】你在飛機上打瞌睡時，會傾向往右靠還是往左靠？", "w": [["tend to", "傾向於"], ["lean", "傾斜、靠"], ["doze off", "打瞌睡"]]},
+    {"en": "If you’re one to sleep on planes, you’ll probably find yourself leaning one way or another as you drift off.", "zh": "如果你是會在飛機上睡覺的人，可能會發現自己入睡時會往某一邊靠。", "w": [["drift off", "漸漸睡著"]], "s": "find yourself ＋ V-ing ＝「發現自己正在…」。"},
+    {"en": "“I prefer the right side of the plane, next to the window, when booking economy. I love looking out the window, but more importantly, I tend to lean to the right when I fall asleep, especially on long-haul flights,” says Dominika Dryjski, an operating officer.", "zh": "營運長 Dominika Dryjski 說：「訂經濟艙時，我偏好飛機右側靠窗。我喜歡看窗外，但更重要的是，我睡著時會往右靠，尤其是長程航班。」", "w": [["economy", "經濟艙"], ["long-haul", "長程的"]], "s": "第 73 題：習慣往右靠 → 右側靠窗（可以靠著窗睡）。"}
+   ],
+   [
+    {"en": "Right-handedness or Left-handedness—This might be a smaller consideration for nonbusiness travelers, but if you plan on working from a flight, consider your dominant hand.", "zh": "【慣用手】對非商務旅客來說這可能是小事，但如果你打算在飛機上工作，就要考慮你的慣用手。", "w": [["dominant hand", "慣用手"], ["plan on", "打算"]]},
+    {"en": "“As a right-handed person, I prefer to sit on the left side of the plane, in an aisle seat, as this makes it easier to work on a laptop if there’s work I have to do,” says John Lyotier, CEO of a travel magazine.", "zh": "旅遊雜誌執行長 John Lyotier 說：「我是右撇子，所以偏好坐飛機左側的走道座位，這樣有工作要做時，用筆電比較方便。」", "w": [["right-handed", "慣用右手的"], ["laptop", "筆記型電腦"]], "s": "as 在這裡是「因為」。this makes it easier to work ＝「這讓工作變得比較容易」（it 是虛受詞）。第 74 題要反推：左撇子就坐「右側」走道座位，左手邊才有空間。"}
+   ]
+  ]
+ },
+ "p76-80": {
+  "title": "住在郵輪上的富人",
+  "summary": "疫情期間郵輪業遭受重創（多艘船爆發感染、有人死亡），一度被認為要沉沒。但 Braemar 號改名為 Odyssey 號後，推出「長住型郵輪」：富人可以購買或租用船艙最長 15 年，把船當成海上的家。這個模式仿效 2002 年的 The World 號，挑戰是要同時管理短期遊客與長期住戶，住久了也可能膩。結論：長住海上在富人間越來越受歡迎，已成為可行的選擇。",
+  "paras": [
+   [
+    {"en": "During the pandemic, the cruise industry faced many challenges and financial losses.", "zh": "疫情期間，郵輪業面臨許多挑戰和財務損失。", "w": [["pandemic", "全球大流行病"], ["financial", "財務的"]]},
+    {"en": "The cruise ship The Braemar was denied entry to the Bahamas after several passengers tested positive for COVID-19.", "zh": "Braemar 號郵輪在數名乘客新冠檢測呈陽性後，被巴哈馬拒絕入境。", "w": [["be denied entry", "被拒絕入境"], ["test positive", "檢測呈陽性"]]},
+    {"en": "The Diamond Princess was quarantined for a month in Japan as the virus spread onboard.", "zh": "鑽石公主號因病毒在船上擴散，在日本被隔離了一個月。", "w": [["quarantine", "隔離檢疫"], ["onboard", "在船（機）上"]]},
+    {"en": "The Diamond and the Ruby had death cases, 9 and 28 fatalities, respectively.", "zh": "鑽石公主號和紅寶石公主號都有死亡案例，分別是 9 人和 28 人。", "w": [["fatality", "死亡（人數）"], ["respectively", "分別地"]], "s": "A and B …, X and Y, respectively ＝ A 對應 X、B 對應 Y。"},
+    {"en": "Almost overnight, these luxury liners became symbols of death and contagion.", "zh": "幾乎一夜之間，這些豪華郵輪成了死亡和傳染的象徵。", "w": [["overnight", "一夜之間"], ["liner", "大型客輪"], ["contagion", "傳染"]]},
+    {"en": "Even some critics claimed that the global cruise industry was sinking.", "zh": "甚至有評論家聲稱全球郵輪業正在沉沒。", "w": [["critic", "評論家"], ["claim", "聲稱"], ["sink", "下沉"]]}
+   ],
+   [
+    {"en": "However, the Braemar changed its name to Odyssey and heralded a new era.", "zh": "然而，Braemar 號改名為 Odyssey 號，開啟了一個新時代。", "w": [["herald", "預示、宣告…的到來"], ["era", "時代"]]},
+    {"en": "Nowadays, the notion of perpetual cruises—where passengers live full-time on cruise ships—has attracted widespread attention of the wealthy.", "zh": "如今，「長住型郵輪」（乘客全年住在郵輪上）的概念，引起了富人的廣泛關注。", "w": [["notion", "概念"], ["perpetual", "永久的、無止境的"], ["widespread", "廣泛的"], ["the wealthy", "富人（the + 形容詞 ＝ 一群人）"]], "s": "兩個破折號中間是插入的補充說明，解釋 perpetual cruises 是什麼。主幹：the notion has attracted attention。第 79 題考 perpetual。"},
+    {"en": "Despite some technical issues, the Odyssey eventually embarked on the voyage and offered passengers an alternative lifestyle at sea, where the ship serves as a floating home.", "zh": "儘管有些技術問題，Odyssey 號最終仍啟航，提供乘客另一種海上生活方式，船就是一個漂浮的家。", "w": [["despite", "儘管（後接名詞）"], ["embark on", "開始、登上"], ["voyage", "航程"], ["serve as", "當作"]], "s": "Despite ＋ 名詞（不能接句子；接句子要用 although）。"}
+   ],
+   [
+    {"en": "Unlike traditional vacation cruises, the Odyssey offers a new growing trend: cruises are a new living option for the rich.", "zh": "不同於傳統的度假郵輪，Odyssey 號提供了一個新興趨勢：郵輪成為富人的新居住選擇。", "w": [["unlike", "不像、不同於"], ["trend", "趨勢"]], "s": "第 77 題的答案在這句：和傳統郵輪不同，它提供長期居住。"},
+    {"en": "Passengers can purchase or rent cabins for up to 15 years.", "zh": "乘客可以購買或租用船艙，最長 15 年。", "w": [["cabin", "船艙"], ["up to", "最多達"]], "s": "第 76 題答案原句。"},
+    {"en": "The prices range from $99,999 to $899,000, based on the cabin size.", "zh": "價格依船艙大小，從 99,999 美元到 899,000 美元不等。", "w": [["range from A to B", "範圍從 A 到 B"]]},
+    {"en": "Only mid-range cabins are available, and two-thirds of them have been sold or rented.", "zh": "只剩中價位的船艙可選，其中三分之二已經售出或出租。", "w": [["mid-range", "中等價位的"], ["two-thirds", "三分之二"]]},
+    {"en": "One of the critical elements is a sense of ownership, as they can customize their cabin to their liking.", "zh": "關鍵因素之一是「擁有感」，因為住戶可以依自己的喜好打造船艙。", "w": [["critical", "關鍵的"], ["ownership", "所有權"], ["customize", "客製化"], ["to one's liking", "合某人心意"]]},
+    {"en": "Also, wealthy residents do not want to share their space with tourists.", "zh": "另外，富有的住戶不想和觀光客共用空間。", "w": [["resident", "居民、住戶"]]}
+   ],
+   [
+    {"en": "Following a Manhattan-style co-op, the cruise ship The World was relaunched in 2002 and is still the world’s only residential community at sea, ensuring exclusivity and ownership to its residents.", "zh": "仿效曼哈頓式的合作公寓，The World 號在 2002 年重新推出，至今仍是全世界唯一的海上住宅社區，確保住戶的專屬感和所有權。", "w": [["co-op", "合作公寓（住戶共同持有）"], ["relaunch", "重新推出"], ["residential", "住宅的"], ["exclusivity", "獨享、專屬"]], "s": "Following… 句首分詞構句（＝ It followed…）；句尾 ensuring… 也是分詞構句，表示結果。"}
+   ],
+   [
+    {"en": "However, this business model has faced challenges, such as managing short-term tourists and long-term residents.", "zh": "然而，這種商業模式也面臨挑戰，例如要同時管理短期遊客和長期住戶。", "w": [["business model", "商業模式"]], "s": "第 78 題答案原句。"},
+    {"en": "Another challenge was that they may grow sick of the sea after spending a long period of time.", "zh": "另一個挑戰是，住戶在海上待久了可能會厭倦大海。", "w": [["grow sick of", "逐漸厭倦"]]}
+   ],
+   [
+    {"en": "To address these issues, the residents decide the ship’s itinerary, with stops every two or three days and no return to the original port of departure for at least three years.", "zh": "為了解決這些問題，由住戶決定航程，每兩三天停靠一次，而且至少三年不回到原出發港。", "w": [["address", "處理（動詞）"], ["itinerary", "行程"], ["port of departure", "出發港"]], "s": "To address… 不定詞放句首，表示目的（為了…）。"},
+    {"en": "The ship Odyssey followed a similar business model of the ship The World and updated services, providing long-term living options for the wealthy.", "zh": "Odyssey 號沿用和 The World 號類似的商業模式並更新服務，為富人提供長期居住的選擇。", "w": [["similar", "類似的"]]},
+    {"en": "While living at sea full-time is not the norm for most people, it is clear that this trend is gaining popularity among the wealthy.", "zh": "雖然全年住在海上對大多數人來說並不常見，但這個趨勢顯然在富人之間越來越受歡迎。", "w": [["norm", "常態"], ["gain popularity", "越來越受歡迎"]], "s": "While 放句首 ＝「雖然」。living at sea full-time 是動名詞當主詞。"},
+    {"en": "With more ships being designed to accommodate long-term residents and offer more exclusive services, the idea of a perpetual home at sea is becoming a viable option for those who can afford it.", "zh": "隨著越來越多的船設計成能容納長期住戶、提供更專屬的服務，「永久的海上之家」對負擔得起的人來說，正成為一個可行的選擇。", "w": [["accommodate", "容納"], ["exclusive", "專屬的"], ["viable", "可行的"], ["afford", "負擔得起"]], "s": "With ＋ 名詞 ＋ being designed… 是「with 獨立分詞構句」，表示伴隨的背景狀況：「隨著更多船被設計成…」。第 80 題考 viable ＝ practical。"}
+   ]
+  ]
+ }
+}
