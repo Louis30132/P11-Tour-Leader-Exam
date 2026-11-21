@@ -1,0 +1,1085 @@
+{
+ "year": 114,
+ "code": "4201",
+ "subject": "english",
+ "source": "交通部觀光署 114年導遊人員及領隊人員評量測驗 考畢試題",
+ "answerNote": "第 41 題答Ａ或Ｄ或ＡＤ者均給分",
+ "header": [
+  "114 年 導 遊 人 員 及 領 隊 人 員 評 量 測 驗 試 題 代號：4201",
+  "類 科：通用制外語領隊人員（英語）、通用制外語領隊人員（英語）應測 1 科",
+  "科 目：外國語（英語）",
+  "評量時間： 1 小時 20 分 座號：____",
+  "※注意：本試題為單一選擇題，請選出一個正確或最適當答案。",
+  "本科目共80題，每題1.25分，須用2B鉛筆在試卡上依題號清楚劃記，於本試題上作答者，不予計分。",
+  "禁止使用電子計算器。"
+ ],
+ "passages": {
+  "p71-75": {
+   "range": [
+    71,
+    75
+   ],
+   "text": "Most travelers have a preference for window or aisle seats when it comes to air travel, but have you ever given thought to which side of the plane you should sit on? We polled some passengers about which side of the aisle they prefer—here’s what they suggest when selecting your seat on an airplane. Potential Views—If you prefer a window seat, you might want to check your potential flight path before picking a side. “I really like the window seat and often try and predict which side will have a better view based on the logical flight path into the airport,” says Richard Campbell, founder of Travel Platform. “I still remember my first international flight almost 25 years ago. I was flying into London Heathrow and sat on the right-hand side of the plane, looking out on the Thames and central London as we circled over the city for our approach into the airport. What a way to start a trip!” But keep in mind that no matter how much research you do, your flight might have other plans. What’s Going on in the Sky—It’s not all about the view below you. “If I’m flying a polar route, I try to be on the side of the plane that will face north during local nightfall in case I have an opportunity to witness the northern lights,” says atmospheric scientist Matthew Cappucci. But if you’re flying on a daytime flight, the sun is a more important consideration. “Since I don’t like having the sun in my eyes, I try to sit on the opposite side of the sun,” says Cappucci. “Sitting on the sunny side also means being on the noticeably warmer side of the plane.”\n\nSleeping Preference—Do you tend to lean right or left when dozing off on a plane? If you’re one to sleep on planes, you’ll probably find yourself leaning one way or another as you drift off. “I prefer the right side of the plane, next to the window, when booking economy. I love looking out the window, but more importantly, I tend to lean to the right when I fall asleep, especially on long-haul flights,” says Dominika Dryjski, an operating officer. Right-handedness or Left-handedness—This might be a smaller consideration for nonbusiness travelers, but if you plan on working from a flight, consider your dominant hand. “As a right-handed person, I prefer to sit on the left side of the plane, in an aisle seat, as this makes it easier to work on a laptop if there’s work I have to do,” says John Lyotier, CEO of a travel magazine."
+  },
+  "p76-80": {
+   "range": [
+    76,
+    80
+   ],
+   "text": "During the pandemic, the cruise industry faced many challenges and financial losses. The cruise ship The Braemar was denied entry to the Bahamas after several passengers tested positive for COVID-19. The Diamond Princess was quarantined for a month in Japan as the virus spread onboard. The Diamond and the Ruby had death cases, 9 and 28 fatalities, respectively. Almost overnight, these luxury liners became symbols of death and contagion. Even some critics claimed that the global cruise industry was sinking.\n\nHowever, the Braemar changed its name to Odyssey and heralded a new era. Nowadays, the notion of perpetual cruises—where passengers live full-time on cruise ships—has attracted widespread attention of the wealthy. Despite some technical issues, the Odyssey eventually embarked on the voyage and offered passengers an alternative lifestyle at sea, where the ship serves as a floating home.\n\nUnlike traditional vacation cruises, the Odyssey offers a new growing trend: cruises are a new living option for the rich. Passengers can purchase or rent cabins for up to 15 years. The prices range from $99,999 to $899,000, based on the cabin size. Only mid-range cabins are available, and two-thirds of them have been sold or rented. One of the critical elements is a sense of ownership, as they can customize their cabin to their liking. Also, wealthy residents do not want to share their space with tourists.\n\nFollowing a Manhattan-style co-op, the cruise ship The World was relaunched in 2002 and is still the world’s only residential community at sea, ensuring exclusivity and ownership to its residents.\n\nHowever, this business model has faced challenges, such as managing short-term tourists and long-term residents. Another challenge was that they may grow sick of the sea after spending a long period of time.\n\nTo address these issues, the residents decide the ship’s itinerary, with stops every two or three days and no return to the original port of departure for at least three years. The ship Odyssey followed a similar business model of the ship The World and updated services, providing long-term living options for the wealthy. While living at sea full-time is not the norm for most people, it is clear that this trend is gaining popularity among the wealthy. With more ships being designed to accommodate long-term residents and offer more exclusive services, the idea of a perpetual home at sea is becoming a viable option for those who can afford it."
+  }
+ },
+ "questions": [
+  {
+   "no": 1,
+   "stem": "The Maui wildfire in Hawaii last year took 102 lives and ____ 80% of the town of Lahaina.",
+   "options": [
+    "saved",
+    "destroyed",
+    "improved",
+    "built"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 2,
+   "stem": "People who are in the U.S. illegally are not taking native citizens’ jobs because they often take on positions that native workers are ____ to fill, such as agriculture and food processing jobs.",
+   "options": [
+    "delighted",
+    "delight",
+    "willing",
+    "unwilling"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 3,
+   "stem": "Nature is very ____. If you destroy nature, nature will destroy you.",
+   "options": [
+    "kind",
+    "unforgiving",
+    "generous",
+    "patient"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 4,
+   "stem": "The only real mistake is the one from which we learn ____. Mistakes teach us only if we choose to learn.",
+   "options": [
+    "anything",
+    "something",
+    "nothing",
+    "everything"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 5,
+   "stem": "Far and away the best prize that life offers is the chance to work hard at work worth ____.",
+   "options": [
+    "to do",
+    "to be doing",
+    "doing",
+    "done"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 6,
+   "stem": "Time is running out, so we must ____ the problem right away.",
+   "options": [
+    "deal with",
+    "throw up",
+    "run into",
+    "take in"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 7,
+   "stem": "I ____ my coworkers quite well. We often collaborate on projects and enjoy spending time together during breaks.",
+   "options": [
+    "argue with",
+    "get along with",
+    "compete against",
+    "disagree with"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 8,
+   "stem": "I didn’t expect to meet such friendly people. It ____ be a great day after all, despite the misfortune earlier in the day.",
+   "options": [
+    "turned out to",
+    "fell apart to",
+    "gave up to",
+    "turned over to"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 9,
+   "stem": "A famous ____ from Shakespeare is “To be, or not to be, that is a question.”",
+   "options": [
+    "character",
+    "quote",
+    "act",
+    "scene"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 10,
+   "stem": "Leaders of European Union countries arrived in Brussels for a ____, where migration is an urgent topic.",
+   "options": [
+    "festival",
+    "summit",
+    "celebration",
+    "competition"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 11,
+   "stem": "Many national parks have trails and reachable adventures, ____ everyone to enjoy the beauty of America’s protected spaces.",
+   "options": [
+    "allowing",
+    "preventing",
+    "restricting",
+    "forcing"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 12,
+   "stem": "Due to the restrictions on the size of the carry-on luggage, it can be ____ to choose the ideal personal bag for flights.",
+   "options": [
+    "easy",
+    "delighting",
+    "hostile",
+    "challenging"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 13,
+   "stem": "All humans are born with a ____ for competence and mastery, which grows stronger when they are with confident and skilled people.",
+   "options": [
+    "indifference",
+    "hesitation",
+    "drive",
+    "failure"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 14,
+   "stem": "Eco-friendly travel is now one of the fastest-growing ____ in the industry, and many people embrace this promising development.",
+   "options": [
+    "problems",
+    "trends",
+    "conflicts",
+    "setbacks"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 15,
+   "stem": "Scientists found harmful particles in dolphins’ breath off Florida, raising ____ for their health and the environment.",
+   "options": [
+    "delight",
+    "satisfaction",
+    "indifference",
+    "concerns"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 16,
+   "stem": "In a ____ relationship, the partners are likely to stay together for long.",
+   "options": [
+    "casual",
+    "difficult",
+    "steady",
+    "unhealthy"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 17,
+   "stem": "The past few weeks have been busy, and I’m ____ the vacation next month.",
+   "options": [
+    "getting used to",
+    "looking back on",
+    "getting over",
+    "looking forward to"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 18,
+   "stem": "The baby was crawling on her ____ last week, and suddenly she could stand on her feet and chase the cat.",
+   "options": [
+    "eyebrows",
+    "knees",
+    "ponytail",
+    "nails"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 19,
+   "stem": "Common sense tells us that behavior that disrupts a classroom and disrupts the learning of others is not ____.",
+   "options": [
+    "acceptable",
+    "offensive",
+    "unreasonable",
+    "inappropriate"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 20,
+   "stem": "There are many causes of water ____. For example, factories can dump waste into waterways, and broken pipes can allow pollutants into the water.",
+   "options": [
+    "treatment",
+    "contamination",
+    "storage",
+    "distribution"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 21,
+   "stem": "The global scientific community comes together and calls for ____ action on the urgent global problem—air pollution.",
+   "options": [
+    "immediate",
+    "delayed",
+    "optional",
+    "unnecessary"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 22,
+   "stem": "At the large, unruly gathering, glass bottles and cans were thrown at police officers as they tried to break up the ____.",
+   "options": [
+    "desert",
+    "forest",
+    "crowd",
+    "building"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 23,
+   "stem": "John’s ____ plan was to move to Ecuador after he retired, but with the rising violence in the country, he decided to look elsewhere.",
+   "options": [
+    "sudden",
+    "conventional",
+    "original",
+    "tragic"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 24,
+   "stem": "To avoid exaggeration of the news which may influence the readers’ judgement, journalists should report people’s stories ____.",
+   "options": [
+    "carelessly",
+    "accurately",
+    "dramatically",
+    "subjectively"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 25,
+   "stem": "Remember to wear several ____ of clothes to stay warm during travel to protect yourself from the cold.",
+   "options": [
+    "bags",
+    "layers",
+    "cases",
+    "boxes"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 26,
+   "stem": "The ____ machines offer everything you might need, ranging from snacks to pajamas.",
+   "options": [
+    "ticket",
+    "coffee",
+    "vending",
+    "laundry"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 27,
+   "stem": "I apologize ____ the company for our waitress’s error, and we will cover the cost of dry cleaning.",
+   "options": [
+    "in front of",
+    "instead of",
+    "on behalf of",
+    "next to"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 28,
+   "stem": "Make sure to purchase a strong and ____ carry-on bag to ensure your belongings are safe during travel.",
+   "options": [
+    "light",
+    "durable",
+    "fancy",
+    "colorful"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 29,
+   "stem": "Medical tourism refers to traveling for medical ____ in other countries, often for better services or lower costs.",
+   "options": [
+    "treatment",
+    "argument",
+    "management",
+    "development"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 30,
+   "stem": "To bring more tourists to Taiwan, the government should offer attractive ____ like discounts and special deals.",
+   "options": [
+    "objective",
+    "incentive",
+    "relative",
+    "creative"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 31,
+   "stem": "The SDGs Asia Expo highlights Taiwan’s firm ____ to transforming sustainability from a concept into tangible action.",
+   "options": [
+    "commitment",
+    "development",
+    "involvement",
+    "encouragement"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 32,
+   "stem": "Tourists now seek more ____ experiences involving real communities and people instead of simply following a tour guide’s flag.",
+   "options": [
+    "generic",
+    "authentic",
+    "automatic",
+    "systematic"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 33,
+   "stem": "European airlines are increasing their ____ as the expansion trend that began late last year continues.",
+   "options": [
+    "capacity",
+    "schedule",
+    "speed",
+    "performance"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 34,
+   "stem": "Passengers often get upset due to long lines and confusion about ticket ____ hidden in the small print of discounted fares.",
+   "options": [
+    "benefits",
+    "restrictions",
+    "options",
+    "offers"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 35,
+   "stem": "Kate: Could you please tell me where the pharmacy is? Clerk: Sure. When you leave the hotel, turn left and ____ for two blocks until you get to the intersection.",
+   "options": [
+    "go back",
+    "go straight",
+    "turn around",
+    "stop"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 36,
+   "stem": "Ground Staff: Can you ____ which one resembles your luggage? (Showing a card with various types of luggage.) Amy: Mine looks similar to Type D.",
+   "options": [
+    "identify",
+    "identity",
+    "identical",
+    "identikit"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 37,
+   "stem": "Kevin: Oh no! I’ve lost my bag, and my passport and boarding pass were in it. What should I do? Linda: Stay calm. Do you remember where you might have lost it? When was the last time you ____ your wallet?",
+   "options": [
+    "put up",
+    "took out",
+    "looked out",
+    "handed in"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 38,
+   "stem": "The hotel provided each guest with a ____ for a complimentary breakfast.",
+   "options": [
+    "map",
+    "voucher",
+    "brochure",
+    "baggage"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 39,
+   "stem": "The airline made an ____ over the loudspeaker, informing passengers of a delay due to weather conditions.",
+   "options": [
+    "announcement",
+    "advertisement",
+    "interview",
+    "impact"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 40,
+   "stem": "The registration form asks for an ____ in case you fall ill during your travels.",
+   "options": [
+    "emergency contact",
+    "itinerary number",
+    "address",
+    "incident"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 41,
+   "stem": "Make sure you confirm your ____ before arriving at the hotel.",
+   "options": [
+    "payment",
+    "baggage",
+    "itinerary",
+    "reservation"
+   ],
+   "answer": [
+    "A",
+    "D"
+   ]
+  },
+  {
+   "no": 42,
+   "stem": "When traveling between two cities by train, you may need to make a ____ at an intermediate station.",
+   "options": [
+    "transfer",
+    "spot",
+    "journey",
+    "detour"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 43,
+   "stem": "The Eiffel Tower is a famous ____ that draws millions of visitors to Paris each year.",
+   "options": [
+    "lounge",
+    "eyesore",
+    "hotel",
+    "landmark"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 44,
+   "stem": "Roger: What time do we need to ____ of the hotel tomorrow? Alice: We should do it before 11 a.m. to avoid extra charges.",
+   "options": [
+    "check in",
+    "check on",
+    "check off",
+    "check out"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 45,
+   "stem": "Linda: After we land, we need to go through ____ before leaving the airport. Nora: Right! Make sure to declare any items you bought abroad.",
+   "options": [
+    "Security",
+    "Customs",
+    "Immigration",
+    "Baggage Claim"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 46,
+   "stem": "The security officer had to ____ the prohibited items from the passenger’s luggage.",
+   "options": [
+    "reward",
+    "purchase",
+    "ignore",
+    "confiscate"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 47,
+   "stem": "Wilson: Before we leave for the trip, can you fill out this ____ about your preferences? Marianne: Sure! It will help the tour company plan better for us.",
+   "options": [
+    "itinerary",
+    "registration form",
+    "questionnaire",
+    "application"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 48,
+   "stem": "Vicky: Did you remember to pack the ____ for our hiking trip? Sheila: Yes, I included it! It’s important to be prepared for any minor injuries.",
+   "options": [
+    "first aid kit",
+    "cooking gear",
+    "sleeping bag",
+    "water bottle"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 49,
+   "stem": "Wife: I called the hotel to see if we could get an ____ for our room. Husband: That would be great! A nicer room would really enhance our stay.",
+   "options": [
+    "upgrade",
+    "extension",
+    "adjustment",
+    "encounter"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 50,
+   "stem": "Tom: Our flight to Barcelona has a long ____ in London. We’ll have to wait for three hours! Nancy: At least we can explore the airport shops while we wait.",
+   "options": [
+    "overture",
+    "cancellation",
+    "departure",
+    "layover"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 51,
+   "stem": "Peggy: Do you know if there’s an ____ to get into the museum? John: Yes, it’s $15 for adults and $10 for students.",
+   "options": [
+    "audio earphone",
+    "admission fee",
+    "service charge",
+    "registration cost"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 52,
+   "stem": "During the emergency landing, the flight crew followed the safety ____ to ensure everyone’s safety.",
+   "options": [
+    "agenda",
+    "protocol",
+    "registration",
+    "report"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 53,
+   "stem": "Before takeoff and landing, flight attendants instruct passengers to place their seats in the ____ position.",
+   "options": [
+    "upright",
+    "reclining",
+    "folded",
+    "relaxed"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 54,
+   "stem": "In the tourism industry, maintaining strong relationships with each ____ is essential for repeat business and referrals.",
+   "options": [
+    "delegate",
+    "employee",
+    "judge",
+    "client"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 55,
+   "stem": "The team made an incredible discovery at the ____ site, uncovering artifacts that were thousands of years old.",
+   "options": [
+    "archaeological",
+    "biological",
+    "retrieval",
+    "geological"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 56,
+   "stem": "Practices that minimize environmental impact and support local communities are key principles of ____.",
+   "options": [
+    "luxury travel",
+    "mass tourism",
+    "sustainable tourism",
+    "adventure tourism"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 57,
+   "stem": "Any ____ you’re carrying through checkpoints must be less than 3.4 ounces and placed in a see- through bag no larger than a quart.",
+   "options": [
+    "switches",
+    "liquids",
+    "motives",
+    "injuries"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 58,
+   "stem": "You can buy some ____ wipes in order to eliminate viruses and bacteria on surfaces.",
+   "options": [
+    "evacuating",
+    "participating",
+    "skyrocketing",
+    "disinfecting"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 59,
+   "stem": "Don’t drink. After all, when you’re ____, you’re more likely to have a solid night of sleep.",
+   "options": [
+    "harsh",
+    "bunch",
+    "sober",
+    "token"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 60,
+   "stem": "Before leaving the table, please place your napkin on your chair or to the left of your plate as a ____ to the server that you will be returning.",
+   "options": [
+    "launch",
+    "signal",
+    "volume",
+    "tenant"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 61,
+   "stem": "We should avoid ____ two people who are engaged in deep conversation.",
+   "options": [
+    "subscribing",
+    "postponing",
+    "approaching",
+    "decorating"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 62,
+   "stem": "To have good table manners please gently ____ your soup to cool it instead of blowing on it during the meal.",
+   "options": [
+    "deem",
+    "lash",
+    "gaze",
+    "stir"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 63,
+   "stem": "Leave your plates in the same position when you finish the meal. Do not ____ the plates or push them aside.",
+   "options": [
+    "blush",
+    "stack",
+    "decay",
+    "mince"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 64,
+   "stem": "We thoroughly examined each pair of shoes for qualities like comfort, ____, and design to recommend the very best styles for every tourist.",
+   "options": [
+    "durability",
+    "discipline",
+    "resolution",
+    "retraction"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 65,
+   "stem": "The new ____ to the northern coast region creates more opportunities for tourists to enjoy all the spectacular view of the area.",
+   "options": [
+    "cockpit",
+    "fable",
+    "kettle",
+    "route"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 66,
+   "stem": "Travelers are urged to use ____ repellent and wear long-sleeved shirts and long pants when outdoors to prevent mosquito bites.",
+   "options": [
+    "insect",
+    "portion",
+    "appeal",
+    "leisure"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 67,
+   "stem": "People who haven’t ____ contracted the virus are advised to get vaccinated at least four weeks before the travel.",
+   "options": [
+    "measurably",
+    "marginally",
+    "previously",
+    "preferably"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 68,
+   "stem": "There is a wide variety of hotels conveniently located near the airport and many of them offer hotel ____ shuttles.",
+   "options": [
+    "strength",
+    "exposure",
+    "accuracy",
+    "courtesy"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 69,
+   "stem": "Some local boutiques may offer ____ pricing, especially on off-season items.",
+   "options": [
+    "obstructive",
+    "competitive",
+    "progressive",
+    "sympathetic"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 70,
+   "stem": "The inspector expressed his concerns about the lack of an adequate effort to ____ customs laws along the border.",
+   "options": [
+    "enforce",
+    "emerge",
+    "collide",
+    "conform"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 71,
+   "stem": "What is the best title for this passage?",
+   "options": [
+    "Choosing a seat for your flight",
+    "Getting work done during your flight",
+    "Why passengers prefer window seats",
+    "How to sleep better on a plane"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 72,
+   "stem": "What would passengers expect to see when flying a polar route?",
+   "options": [
+    "The aurora borealis",
+    "The Thames and central London",
+    "The atmospheric circulation",
+    "The southern hemisphere"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 73,
+   "stem": "According to the passage, if a passenger tends to lean to the right when falling asleep, what will be the best seat for the passenger?",
+   "options": [
+    "A window seat on the right side of the plane",
+    "An aisle seat on the right side of the plane",
+    "A window seat on the left side of the plane",
+    "An aisle seat on the left side of the plane"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 74,
+   "stem": "What will be the best seat implied by the article for a passenger who is left-handed and has work to do?",
+   "options": [
+    "An aisle seat on the left side of the plane",
+    "A window seat on the left side of the plane",
+    "An aisle seat on the right side of the plane",
+    "A window seat on the right side of the plane"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 75,
+   "stem": "According to the passage, what does the sentence “… no matter how much research you do, your flight might have other plans” suggest?",
+   "options": [
+    "Flight paths may change.",
+    "You may cancel your travel plan.",
+    "Research on flight plans is essential.",
+    "Airline fuel surcharges vary."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 76,
+   "stem": "According to the passage, what is the main feature of the Odyssey?",
+   "options": [
+    "No passengers can afford the price.",
+    "Passengers can rent cabins for up to 15 years.",
+    "It provides only short-term leisure vacations.",
+    "Adventure and exploration are not provided."
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 77,
+   "stem": "What makes the Odyssey different from traditional cruise ships?",
+   "options": [
+    "It offers only short-term vacations.",
+    "It is the largest cruise ship in the world.",
+    "It provides long-term living options.",
+    "It sails around the same region all year."
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 78,
+   "stem": "What challenge did “The World” face when it was first launched?",
+   "options": [
+    "Lack of interest from potential buyers.",
+    "Poor onboard amenities.",
+    "High operating costs.",
+    "Difficulties managing short-term guests and long-term residents."
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 79,
+   "stem": "What does the word “perpetual” (in the second paragraph) mean?",
+   "options": [
+    "Temporary",
+    "Occasional",
+    "Expensive",
+    "Never-ending"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 80,
+   "stem": "What does the word “viable” (in the last paragraph) mean?",
+   "options": [
+    "Unlikely",
+    "Practical",
+    "Undesirable",
+    "Unnecessary"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  }
+ ]
+}

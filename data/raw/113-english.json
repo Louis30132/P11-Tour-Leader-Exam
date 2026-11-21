@@ -1,0 +1,1084 @@
+{
+ "year": 113,
+ "code": "4501",
+ "subject": "english",
+ "source": "交通部觀光署 113年導遊人員及領隊人員評量測驗 考畢試題",
+ "answerNote": "",
+ "header": [
+  "113 年 導 遊 人 員 及 領 隊 人 員 評 量 測 驗 試 題 代號：4501",
+  "類 科：通用制外語領隊人員（英語）、通用制外語領隊人員（英語）應測 1 科",
+  "科 目：外國語（英語）",
+  "評量時間： 1 小時 20 分 座號：____",
+  "※注意：本試題為單一選擇題，請選出一個正確或最適當答案。",
+  "本科目共80題，每題1.25分，須用2B鉛筆在試卡上依題號清楚劃記，於本試題上作答者，不予計分。",
+  "禁止使用電子計算器。"
+ ],
+ "passages": {
+  "p71-75": {
+   "range": [
+    71,
+    75
+   ],
+   "text": "Did you know there is a difference between a direct, non-stop and a layover flight? Booking the right flight guarantees that you have chosen a flight that is comfortable and convenient for your travel schedule.\n\nMany people think a direct flight is the same as a non-stop flight. Though the term ‘direct’ is used interchangeably with ‘non-stop’, the two are different. In a direct flight, you do not change planes and you have only one flight number. Unlike the non-stop flight, the plane makes a stop en route to the final destination for refueling and picking up and dropping off passengers. If you are in a hurry, a direct flight may not be the right choice. The stops add up to an hour or two to your total flight time. If time is not an issue, direct flights are ideal since they are often less expensive than non-stop flights.\n\nA non-stop flight is just as it sounds – a flight that goes from one point to another without making a stop. Just like direct flights, non-stop flights have a single flight number. Non-stop flights are mostly sought-after for business travelers who value time. They are usually the most expensive flights. Passengers on non-stop flights are not affected by unexpected delays at the airport after takeoff, including refueling.\n\nYou can never mention a direct and non-stop flight without a layover flight. A layover flight is also called a connecting flight. If you book a layover flight, it means the plane will make a stop en route, with passengers disembarking the flight and changing services. Long layovers approach stopover territory, which is, essentially, an even longer layover. Considering the high price range of both direct and non-stop flights, you may consider booking a layover flight since it is usually less expensive. Connecting flights have more than one flight number."
+  },
+  "p76-80": {
+   "range": [
+    76,
+    80
+   ],
+   "text": "There are some simple tips for what to do before traveling internationally. First, the validity of your passport can be an easy oversight. A passport validity of 10 years can make people complacent, forgetting that it actually requires renewing. Many countries won’t allow entry if your passport has less than 6 months remaining. A good rule of thumb is to ensure your passport is valid when booking your flight.\n\nAdditionally, check in advance if you need a visa. Arriving for your flight without the necessary visa can lead to being denied boarding, especially if you can’t apply for one on arrival. US and UK passport holders can travel to many countries without a visa or receive one upon arrival. However, entry requirements vary, so thorough research is essential.\n\nInvesting time in researching your destination is also important to optimize your experience. While spontaneous travel seems fun, being aware of the nuances of your destination country can be more practical. This includes understanding differences in language, culture, and laws. For instance, chewing gum is illegal in Singapore, feeding pigeons is prohibited in Venice, and riding a cow while intoxicated is not allowed in Scotland. Knowing them ahead of time can keep you out of trouble."
+  }
+ },
+ "questions": [
+  {
+   "no": 1,
+   "stem": "Visitors of the national park should ____ falling rocks on the road and trails, especially after heavy rains, typhoons and earthquakes.",
+   "options": [
+    "be engaged in",
+    "be afflicted by",
+    "count on",
+    "beware of"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 2,
+   "stem": "The Forestry and Nature Conservation Agency has been developing forest recreation sites to ____ the citizens’ leisure and entertainment needs.",
+   "options": [
+    "draw from",
+    "cater to",
+    "stand by",
+    "take over"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 3,
+   "stem": "This church dates back to the mid-fourteenth century and ____ a large number of remarkable statues and wall paintings.",
+   "options": [
+    "houses",
+    "abuses",
+    "chants",
+    "mourns"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 4,
+   "stem": "Responsible tourists travel with ____ bags and water bottles, with which less trash is created.",
+   "options": [
+    "reusable",
+    "arrogant",
+    "eventual",
+    "mystical"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 5,
+   "stem": "Customer: May I have two plastic forks, please? Receptionist: Unfortunately, we no longer provide any ____ utensils due to the new environmental protection act.",
+   "options": [
+    "compostable",
+    "disposable",
+    "dissectible",
+    "combinable"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 6,
+   "stem": "Elevated wood-plank bridges are used to separate ____ and vehicle traffic, and to provide beautiful views of the treetops.",
+   "options": [
+    "pedestrian",
+    "non-stop",
+    "commercial",
+    "off-peak"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 7,
+   "stem": "As soon as your traveling date is fixed, you need to ____ yourself a flight ticket and make your hotel reservations.",
+   "options": [
+    "set",
+    "book",
+    "do",
+    "enjoy"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 8,
+   "stem": "A group of travelers were ____ in a blizzard; fortunately, they were accepted into a stranger’s home for two nights.",
+   "options": [
+    "stranded",
+    "expanded",
+    "assessed",
+    "opposed"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 9,
+   "stem": "A: Why do you opt for a cruise holiday? B: Well, I choose it because it offers fully ____ holidays, which cover meals, entertainment, and tours ashore.",
+   "options": [
+    "available",
+    "interesting",
+    "equipped",
+    "inclusive"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 10,
+   "stem": "Airlines will ____ their international airfares by an average of 4.5% on Nov. 30 due to rising fuel prices.",
+   "options": [
+    "run",
+    "kick",
+    "hit",
+    "hike"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 11,
+   "stem": "The geyser erupts more frequently than any of the other big ones and is still as ____ as it was a century ago.",
+   "options": [
+    "spectacular",
+    "alternative",
+    "handicapped",
+    "pessimistic"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 12,
+   "stem": "The receptionist of a hotel is responsible for politely completing the check-in procedure and introducing the ____ and services the hotel provides.",
+   "options": [
+    "insurances",
+    "insights",
+    "facilities",
+    "decorations"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 13,
+   "stem": "Guest: There are two vegetarians in our party. Do you have a vegetarian menu? Hostess: We sure do. It’s a vegetarian set menu. There are also vegetarian ____ on our à la carte menu.",
+   "options": [
+    "dishes",
+    "treatments",
+    "programs",
+    "ranks"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 14,
+   "stem": "The authorities have ____ their efforts in protecting the environment during the $2 billion project.",
+   "options": [
+    "touted",
+    "roamed",
+    "munched",
+    "panted"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 15,
+   "stem": "Tourist: Excuse me. I couldn’t catch my connecting flight NW1234 to Los Angeles. Can you give me a hand? Ground Staff: I’ll see what I can do for you. Sir, may I have your ticket and passport, please? Tourist: Yes, ____.",
+   "options": [
+    "here is my baggage claim ticket",
+    "here you are",
+    "there is my boarding pass",
+    "here is my carry-on baggage"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 16,
+   "stem": "Passenger: Would you please show me how to fasten the seatbelt? Flight Attendant: First, insert the link into the ____. Then, pull the strap to adjust it. Passenger: Thanks a lot. Let me try it.",
+   "options": [
+    "buckle",
+    "trunk",
+    "buffet",
+    "button"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 17,
+   "stem": "The thick walls, heavy doors and narrow windows allowed the building to function as a small ____ when it was attacked by pirates.",
+   "options": [
+    "fort",
+    "lard",
+    "clan",
+    "knot"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 18,
+   "stem": "There are fewer guests showing up at the wedding banquet than the Lins ____ predicted.",
+   "options": [
+    "originated",
+    "oriental",
+    "originally",
+    "original"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 19,
+   "stem": "This is your captain speaking. Welcome aboard American Airlines flight 115 from San Francisco to Seattle. We ____ for our late departure, but as is sometimes the case at San Francisco, the fog was too thick for taking off.",
+   "options": [
+    "appreciate",
+    "apologize",
+    "apprehend",
+    "appraise"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 20,
+   "stem": "Caller: We’d like to host a meeting for about 40 people at your hotel next Friday. Do you have a suitable conference room available? Event Planner: That’s not a problem. Our conference room has a seating ____ of 60 people and it will be available.",
+   "options": [
+    "capacity",
+    "capability",
+    "captivity",
+    "captain"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 21,
+   "stem": "When the flight is delayed, the tour leader should calm the tourists and wait patiently for the airline to solve the problem. Also, the tour leader can ask the airline for ____.",
+   "options": [
+    "comprehension",
+    "compliment",
+    "complement",
+    "compensation"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 22,
+   "stem": "Hi, Susan. I have got two ____ tickets for the concert on next Saturday evening from my boss. Will you be available to go with me?",
+   "options": [
+    "complimentary",
+    "continental",
+    "categorical",
+    "calculated"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 23,
+   "stem": "Tour Leader: I’d like you to check if you put any lithium ____, power bank or valuable items in your checked luggage. If you did, please move them to your carry-on bag.",
+   "options": [
+    "batteries",
+    "battles",
+    "bottles",
+    "buckles"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 24,
+   "stem": "Passenger: Excuse me. I’m reporting a ____ suitcase. I couldn’t find it on the carousel. Staff: May I see your baggage claim tag, please?",
+   "options": [
+    "turning",
+    "misleading",
+    "missing",
+    "waiting"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 25,
+   "stem": "All passengers arriving in the US must complete a US Declaration form. Besides, passengers carrying fruits, vegetables, plants, seeds or other agricultural ____ are required to declare those items.",
+   "options": [
+    "products",
+    "currencies",
+    "advertisements",
+    "qualities"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 26,
+   "stem": "A: Who should I give my application form to? B: ____",
+   "options": [
+    "I will give it to you.",
+    "You should give it to your supervisor.",
+    "You can deliver it by airmail.",
+    "You will receive it from your manager."
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 27,
+   "stem": "A volcano which has been dormant for nearly two centuries ____ in Iceland last week.",
+   "options": [
+    "erupted",
+    "aligned",
+    "drafted",
+    "feasted"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 28,
+   "stem": "Any traveler who plans to make ____ stops around Japan is advised to check out the Japan Rail Pass, or JR pass.",
+   "options": [
+    "multiple",
+    "lengthy",
+    "traditional",
+    "singular"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 29,
+   "stem": "Your travel authorization has been ____ and you are authorized to travel to the United States under the Visa Waiver Program.",
+   "options": [
+    "abducted",
+    "approved",
+    "denied",
+    "suspended"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 30,
+   "stem": "The purpose of a hidden door is for security; it is often used to ____ a safe room or valuables.",
+   "options": [
+    "conceal",
+    "dignify",
+    "glimmer",
+    "intrude"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 31,
+   "stem": "Guest: Could you explain a little about your breakfast menu? Waiter: We have two set meals. One is our ____ breakfast, and the other is our American breakfast.",
+   "options": [
+    "continental",
+    "signal",
+    "specific",
+    "content"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 32,
+   "stem": "Furry friends are welcome at our hotel. Add a ____ to your reservation for $75 per stay.",
+   "options": [
+    "rest",
+    "room",
+    "pest",
+    "pet"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 33,
+   "stem": "The Geopark employs various methods to conserve water, including rainwater harvesting and a closed-loop filtration system, while also ____ groundwater ____ recharge wells.",
+   "options": [
+    "combining …to",
+    "using…on",
+    "seeking …with",
+    "replacing …with"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 34,
+   "stem": "The answer to how much we should ____ a waitress can be varied. Some people think 10 to 15% of your bill is the proper amount in the daytime.",
+   "options": [
+    "tip",
+    "value",
+    "ask",
+    "engage"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 35,
+   "stem": "Tourist: OK, so it’s better that I go to the Convention Center bybus. Do you know how much the____ is? Information Center Assistant: It is $2 for a single ticket, and $3 for a return ticket. You can purchase your ticket from the bus driver.",
+   "options": [
+    "fare",
+    "spending",
+    "charging",
+    "tag"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 36,
+   "stem": "A Periodic Ticket allows an unlimited number of rides to and from designated stations at a ____ rate within the offer validity period. The discount is calculated based on the full fares for Non-reserved Seats.",
+   "options": [
+    "higher",
+    "premium",
+    "bargain",
+    "standard"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 37,
+   "stem": "TSA Officer: Good morning. Please place your bags and shoes on the conveyor belt. Passenger: ____",
+   "options": [
+    "Great, thanks.",
+    "I don’t think so.",
+    "Sure, no problem.",
+    "You’re welcome."
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 38,
+   "stem": "A: Excuse me, I’m a bit lost. I'm trying to find the nearest metro station. Can you help me? B: ____",
+   "options": [
+    "Here’s a map of the city. I hope you enjoy the visit.",
+    "Of course! You need to head down this street, and it’s just a few blocks that way. You can’t miss it.",
+    "Sure, you should see a large statue of the famous person just across the street from the park.",
+    "Yes, you’re good to go. Have a great trip."
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 39,
+   "stem": "The sign “Do not enter” marks the ____ area where only those with permission are allowed entry.",
+   "options": [
+    "restricted",
+    "convinced",
+    "dissolved",
+    "flourished"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 40,
+   "stem": "Compared to taking a taxi or renting a car, public transportation is more ____ and environmentally friendly.",
+   "options": [
+    "casual",
+    "private",
+    "pleasant",
+    "economical"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 41,
+   "stem": "Customer: I’d like to return this blender. It’s not working properly. Store Employee: I’m sorry to hear that. Do you have your ____?",
+   "options": [
+    "address",
+    "decision",
+    "response",
+    "receipt"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 42,
+   "stem": "A: Do you have any flammable materials, firearms or ____ food items? B: Whoops! I did pack some bananas. I can take them out now if they are banned.",
+   "options": [
+    "crunchy",
+    "crusty",
+    "permissible",
+    "perishable"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 43,
+   "stem": "My friend has severe ____, especially to shellfish, so we need to choose restaurants carefully when dining out and make sure he has his medication available.",
+   "options": [
+    "allergies",
+    "dilemmas",
+    "fallacies",
+    "twisters"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 44,
+   "stem": "During our exciting ____, we explored ancient ruins, savored exotic cuisine, and connected with locals, making our travel unforgettable.",
+   "options": [
+    "admission",
+    "excursion",
+    "manufacture",
+    "speculation"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 45,
+   "stem": "____ tourism encourages sustainable travel, fostering appreciation for natural wonders while promoting conservation efforts crucial for preserving our planet’s biodiversity.",
+   "options": [
+    "Ecological",
+    "Economical",
+    "Empathetic",
+    "Epidemic"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 46,
+   "stem": "After a severe injury, Hanna underwent intensive ____, working tirelessly to regain her strength, mobility, and independence, ultimately recovering well.",
+   "options": [
+    "assimilation",
+    "dissemination",
+    "rehabilitation",
+    "solicitation"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 47,
+   "stem": "For their anniversary, the old couple celebrated in an ____ manner, booking a luxurious cruise and dining in high-end restaurants, trying to create unforgettable memories.",
+   "options": [
+    "absolute",
+    "extravagant",
+    "original",
+    "intrinsic"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 48,
+   "stem": "The musician had to ____ when technical issues disrupted the concert during the world tour, but the audience unexpectedly loved the spontaneity.",
+   "options": [
+    "applause",
+    "improvise",
+    "sacrifice",
+    "testify"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 49,
+   "stem": "A: Is there any room for negotiation on the price? B: Certainly, ____",
+   "options": [
+    "there is no room for negotiation on the price.",
+    "there is some room for negotiation on the price.",
+    "there are rooms for renting at the same price.",
+    "there are rooms for renting at a higher price."
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 50,
+   "stem": "A: ____ B: If you follow the signs to the train station, there is a mall on the way.",
+   "options": [
+    "Hi there, can you tell me if I can get to the train station on foot?",
+    "Excuse me. Is there a train station or a bus station in this district?",
+    "Sorry. Can you give me a lift to the train station? I’m really in a hurry.",
+    "Do you know where I can buy a plug adaptor around here?"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 51,
+   "stem": "A: Can I leave my rucksack behind the desk for a few hours after checkout? B: ____",
+   "options": [
+    "No problem! Just be sure to put a label with your contact details on it.",
+    "Sorry. Your rucksack is not ready to check out because it isn’t found yet.",
+    "Certainly. And we’ll make sure the room will be ready when you check in.",
+    "Wait a minute. Let me check to see if the rucksack has already arrived."
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 52,
+   "stem": "A: ____ B: No, sorry, they’re only available in English.",
+   "options": [
+    "Can I find bookstores in this area?",
+    "I hope I didn’t bother you, did I?",
+    "When do you think the stage show will start?",
+    "Do you have brochures in Spanish?"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 53,
+   "stem": "Lisa: Hey John, have you checked the ____ for our flight? John: Not yet, but I think we’re allowed two bags each.",
+   "options": [
+    "luggage dimensions",
+    "security regulations",
+    "seat availability",
+    "baggage allowance"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 54,
+   "stem": "Customs Officer: I’m sorry, sir, but we need to ____ the fruits in your luggage. Traveler: Oh, I didn’t realize fruits were prohibited. I apologize for the inconvenience.",
+   "options": [
+    "inspect",
+    "confiscate",
+    "disclose",
+    "administer"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 55,
+   "stem": "Ground Crew: The flight will be delayed for ten hours due to severe weather conditions. Tour Leader: Ten hours! My group members might need some essentials during this time. Are there any provisions in place for ____ when purchasing essential items?",
+   "options": [
+    "assistance",
+    "rewarding",
+    "reimbursement",
+    "supporting"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 56,
+   "stem": "Tour Leader: Hi, we have a problem in one of our rooms—the toilet isn’t ____ properly. Can someone take a look at it? Front Desk Clerk: I’m sorry to hear that. Which room is it?",
+   "options": [
+    "moving",
+    "acting",
+    "draining",
+    "flushing"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 57,
+   "stem": "Some hikers lament that much of their hiking life happens on established trails, but what would it be like to really ____ and feel the frontier of modern adventure?",
+   "options": [
+    "explore",
+    "endure",
+    "evade",
+    "exaggerate"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 58,
+   "stem": "____ through the Caribbean, passengers enjoyed the warm sea breeze and crystal-clear waters.",
+   "options": [
+    "Mopping",
+    "Flying",
+    "Driving",
+    "Cruising"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 59,
+   "stem": "____ technology is being increasingly utilized in airport passenger screening in the USA to enhance security measures and expedite passenger verification processes.",
+   "options": [
+    "Facial recognition",
+    "Visa issuing",
+    "Baggage tracking",
+    "Boarding gate management"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 60,
+   "stem": "In Europe, where travel distances are often short, it is usually more ____ and inexpensive to travel by train than by airplane.",
+   "options": [
+    "consumptive",
+    "unsuitable",
+    "hindering",
+    "convenient"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 61,
+   "stem": "All mobile phones must be ____ to flight mode before takeoff and landing.",
+   "options": [
+    "cleaned",
+    "started",
+    "switched",
+    "stopped"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 62,
+   "stem": "To ____ the tax refund, foreign travelers must apply at the port of their departure from Taiwan within a limited time of their purchase.",
+   "options": [
+    "calm",
+    "close",
+    "count",
+    "claim"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 63,
+   "stem": "Singapore is famous for its strict laws. Anyone who is found guilty and convicted for ____ may face a fine or imprisonment.",
+   "options": [
+    "vandalism",
+    "vendor",
+    "vampire",
+    "vanishment"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 64,
+   "stem": "Today ____ lines operate in all parts of the world. These “oceangoing resorts” cover some of the most popular areas such as the Caribbean and the Mediterranean seas.",
+   "options": [
+    "crisis",
+    "credit",
+    "cruise",
+    "crease"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 65,
+   "stem": "Before you ____ a journey through the Amazon rainforest, it’s essential to be well-prepared and informed.",
+   "options": [
+    "extinguish",
+    "undertake",
+    "visualize",
+    "dream"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 66,
+   "stem": "Due to limited space in the overhead bins, passengers are advised to bring only one ____ bag on the plane.",
+   "options": [
+    "garbage",
+    "cardboard",
+    "carry-on",
+    "ceramic"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 67,
+   "stem": "To buy souvenirs at the local market, tourists often need to ____ their currency for the local money.",
+   "options": [
+    "explore",
+    "extend",
+    "explain",
+    "exchange"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 68,
+   "stem": "Tourists should always ____ by the rules and regulations of the national parks they visit to preserve the natural environment.",
+   "options": [
+    "abide",
+    "apply",
+    "assess",
+    "announce"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 69,
+   "stem": "Custom officer: Good morning. ____ Visitor: Good morning. I’m here for tourism, to explore the sights and experience the culture.",
+   "options": [
+    "Where will you be staying?",
+    "How long do you plan to stay?",
+    "Do you have a return or onward ticket?",
+    "What is the purpose of your visit?"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 70,
+   "stem": "With air fares ____ faster than inflation, global airline bosses now expect $9.8 billion in net income this year, more than double the amount initially forecasted.",
+   "options": [
+    "shaking",
+    "rising",
+    "circulating",
+    "stagnating"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 71,
+   "stem": "Which of the following statements is TRUE about a direct flight?",
+   "options": [
+    "It may have a stop en route to the final destination.",
+    "It involves changing planes.",
+    "It is ideal for travelers for whom time and the air ticket price are an issue.",
+    "It is the same as a non-stop flight."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 72,
+   "stem": "Which of the following would be most preferable to travelers who value time?",
+   "options": [
+    "Non-stop flights",
+    "Direct flights",
+    "Layover flights",
+    "Connecting flights"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 73,
+   "stem": "According to the passage, which of the following statements is true?",
+   "options": [
+    "In a connecting flight, you have only one flight number.",
+    "Direct flights are the fastest way to get to your destination.",
+    "Layover flights are usually cheaper than both direct and non-stop flights.",
+    "If you are looking to save money and time, a layover flight is the best choice."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 74,
+   "stem": "According to this passage, stopovers can be different from layover flights in that the former are ____ than the latter.",
+   "options": [
+    "faster",
+    "longer",
+    "more convenient",
+    "more comfortable"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 75,
+   "stem": "According to the passage, in a direct flight, an airplane may stop at an airport before arriving at the destination for the following purposes EXCEPT ____.",
+   "options": [
+    "refueling",
+    "disembarking passengers",
+    "changing pilots",
+    "picking up passengers"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 76,
+   "stem": "What is the primary focus of this passage?",
+   "options": [
+    "The process of obtaining a visa",
+    "Preparing for international travel",
+    "The legal system in foreign countries",
+    "The importance of understanding cultural differences"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 77,
+   "stem": "According to the passage, what is a common mistake travelers make regarding their passports?",
+   "options": [
+    "Losing their passport during travel",
+    "Forgetting to bring their passport",
+    "Not having the correct type of passport",
+    "Not realizing their passports need to be renewed"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 78,
+   "stem": "In the passage, what does the word ‘nuances’ most closely mean?",
+   "options": [
+    "Legal differences",
+    "Subtle differences",
+    "Cultural variations",
+    "Major contrasts"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 79,
+   "stem": "What does ‘them’ in the last sentence refer to?",
+   "options": [
+    "destinations",
+    "countries",
+    "laws",
+    "passports"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 80,
+   "stem": "Which of the following is mentioned as an illegal activity in a foreign country?",
+   "options": [
+    "Feeding pigeons in Venice",
+    "Riding a bicycle on sidewalks in Scotland",
+    "Eating on the street in Singapore",
+    "Taking pictures of US government buildings"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "A"
+   ]
+  }
+ ]
+}

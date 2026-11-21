@@ -1,5 +1,5 @@
 /* 離線快取：App 外殼用快取優先，題庫用網路優先（有網路就拿最新版） */
-const CACHE = 'p11-tourleader-v1';
+const CACHE = 'p11-tourleader-v2';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'data/bank.json'];
 
 self.addEventListener('install', (e) => {

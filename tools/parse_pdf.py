@@ -89,11 +89,28 @@ def parse_questions(lines):
             cur['raw'] += '\n' + ln
     # 閱讀測驗：「請依下文回答第 X 題至第 Y 題：」後面的文章，會黏在前一題尾巴
     passages = {}
-    pat = re.compile(r'請依下文回答第\s*(\d+)\s*題至第\s*(\d+)\s*題[:：]?')
+    pat = re.compile(r'(?:請依下文回答第\s*(\d+)\s*題至第\s*(\d+)\s*題|▲?\s*閱讀下文[，,]?\s*回答第\s*(\d+)\s*[-–~～至]\s*(?:第\s*)?(\d+)\s*題)[:：]?')
+    # 沒有標題的文章：D 選項第一行之後還有一大段文字
+    unmarked = []
+    for i, q in enumerate(qs):
+        if pat.search(q['raw']) or OPT + 'D' not in q['raw']:
+            continue
+        head, tail = q['raw'].rsplit(OPT + 'D', 1)
+        first, _, rest = tail.partition('\n')
+        if len(rest.strip()) > 200 and re.search(r'[A-Za-z]{3,}', rest):
+            q['raw'] = head + OPT + 'D' + first
+            unmarked.append((i, rest.strip()))
+    for k, (i, text) in enumerate(unmarked):
+        a = qs[i + 1]['no'] if i + 1 < len(qs) else None
+        if a is None:
+            continue
+        nxt = unmarked[k + 1][0] if k + 1 < len(unmarked) else len(qs) - 1
+        b = qs[nxt]['no']
+        qs[i]['raw'] += f'\n請依下文回答第 {a} 題至第 {b} 題：\n' + text
     for q in qs:
         m = pat.search(q['raw'])
         if m:
-            a, b = int(m.group(1)), int(m.group(2))
+            a, b = int(m.group(1) or m.group(3)), int(m.group(2) or m.group(4))
             text = q['raw'][m.end():].strip()
             q['raw'] = q['raw'][:m.start()]
             text = re.sub(r'(?<=[^\x00-\x7f])\n(?=[^\x00-\x7f])', '', text)
@@ -147,12 +164,13 @@ def parse_answers(path):
 def apply_note(ans, note):
     """備註例：第 35 題答 B 給分。／第 3 題答 A 或 C 給分／第 5 題一律給分"""
     extra = {}
+    note = unicodedata.normalize('NFKC', note).replace(' ', '')  # 全形Ａ→A；去空白（「一律 給分」）
     for m in re.finditer(r'第\s*(\d+)\s*題([^。；;]*)', note):
         n, rest = int(m.group(1)), m.group(2)
         if '一律給分' in rest:
             extra[n] = ['A', 'B', 'C', 'D']
         else:
-            letters = re.findall(r'[A-D]', rest)
+            letters = sorted(set(re.findall(r'[A-D]', rest)))
             if letters:
                 extra[n] = letters
     return extra

@@ -259,7 +259,7 @@
     if (reveal) {
       const ok = isCorrect(q, chosen);
       verdict = `<div class="verdict ${ok ? 'ok' : 'bad'}">
-        <h3>${ok ? '答對了！' : `答錯了：你選 ${chosen}，正確答案是 ${q.a.join('、')}`}</h3>
+        <h3>${q.a.length === 4 ? '官方公告本題一律給分' : ok ? (q.a.length > 1 ? `答對了！（官方公告 ${q.a.join('、')} 都給分）` : '答對了！') : `答錯了：你選 ${chosen}，正確答案是 ${q.a.join('、')}`}</h3>
         <p>${esc(q.e || '（這題的解析還在整理中）')}</p>
         ${q.r ? '<div class="review-note">⚠ 待查核：這題的解析依官方答案撰寫，相關法規數字請以最新版本為準。</div>' : ''}
       </div>`;
