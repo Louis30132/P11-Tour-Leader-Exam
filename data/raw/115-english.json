@@ -1,0 +1,1084 @@
+{
+ "year": 115,
+ "code": "4201",
+ "subject": "english",
+ "source": "交通部觀光署 115年導遊人員及領隊人員評量測驗 考畢試題",
+ "answerNote": "",
+ "header": [
+  "115 年 導 遊 人 員 及 領 隊 人 員 評 量 測 驗 試 題 代號：4201",
+  "類 科：通用制外語領隊人員（英語）、通用制外語領隊人員（英語）應測 1 科",
+  "科 目：外國語（英語）",
+  "評量時間： 1 小時 20 分 座號：____",
+  "※注意：本試題為單一選擇題，請選出一個正確或最適當答案。",
+  "本科目共80題，每題1.25分，須用2B鉛筆在試卡上依題號清楚劃記，於本試題上作答者，不予計分。",
+  "禁止使用電子計算器。"
+ ],
+ "passages": {
+  "p71-75": {
+   "range": [
+    71,
+    75
+   ],
+   "text": "When people travel to other parts of the world, their footprints often leave effects on the visited places. One of the most immediate and visible effects brought by tourism onto local communities can be seen in the aspect of economic growth. Tourism is often a primary source of income for many regions, especially those rich in natural beauty, historical importance, or cultural heritage. When most tourists visit a location, they spend money on accommodation, food, transportation, and entertainment, all directly contributing to the local economy. This influx of capital also creates many job opportunities, not only in tourism-related industries like hotels, restaurants, and travel agencies but also in other sectors that support tourism, such as construction and retail business. However, some negative effects also exist. For example, the economic benefits of tourism are not always equitably distributed. In some cases, the majority of profits go to large, foreign-owned companies, leaving local businesses and workers with only a small percentage of the generated income. In other cases, tourism leads to inflation and drives up the cost of living for local residents, particularly in areas where the demand for goods and services rises sharply during peak tourist seasons. Clearly, when promoting tourism, both the positive and negative effects must be taken into consideration."
+  },
+  "p76-80": {
+   "range": [
+    76,
+    80
+   ],
+   "text": "While progress towards decarbonisation has been made, this research highlights the diversity within the sector, differences in context as well as variety in commitments across industries and companies in Travel & Tourism. The sector must continue developing long-term strategies and targets consistent with the Paris Agreement and latest scientific recommendations, aligned to relevant national and international policies and strategies, to achieve net zero emissions goals. The analysis showed that 53% of the Travel & Tourism businesses analysed currently have publicly announced climate targets. Though many targets are not yet based on the latest science, it is promising to see that many businesses are currently in the process of revising and adapting their targets to reach standards like those set by SBTi, and many others, putting climate action much higher on their priority lists. Of course, key for monitoring this progress will also be the transparent sharing of these activities through more harmonised methodologies. Overall, the Travel & Tourism sector has made progress since the 2021 edition of Net Zero Roadmap but still needs to accelerate efforts to meet the 2050 target. More businesses have climate targets, but implementation and execution have been slower than what is needed. A strong volume recovery highlights the need for continued focus on decarbonisation, particularly in certain geographies experiencing strong growth. New target frameworks and net zero pathways have been established, but challenges remain in carbon data measurement, regulation, and infrastructure.\n\nMoving forward, progress will depend on addressing various challenges, some common to all focus industries and some more specific to individual ones. These include emission measurement, especially Scope 3 emissions, the fragmented regulatory landscape, inconsistencies in reporting standards and insufficient budgets remains issues. Moreover, the special challenges for SMEs in the sector, which make up the majority of Travel & Tourism businesses, will require strong commitments from all stakeholders to increase collaboration and ensure inclusiveness.\n\nThere are clear opportunities for Travel & Tourism to achieve net zero in many areas and industries even before 2050. However, as businesses define their commitments based on their respective corridors, they will require support, particularly for those businesses with hard-to-abate emissions. As the sector pushes for the highest ambitions and an acceleration of climate action overall, it will have to join forces to strengthen the innovation needed for new technologies and alternative fuels to decouple Travel & Tourism growth rates from resource use and emissions for a net zero future. There is no doubt, time is of the essence and our actions of today define our world of tomorrow."
+  }
+ },
+ "questions": [
+  {
+   "no": 1,
+   "stem": "Gluten ____ meal does not contain any gluten-based product.",
+   "options": [
+    "accepting",
+    "indulgent",
+    "intolerant",
+    "rich"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 2,
+   "stem": "Guests checked in at the hotel ____ before going to their rooms.",
+   "options": [
+    "conference room",
+    "elevator",
+    "reception",
+    "concierge service"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 3,
+   "stem": "Before entering the country, each visitor must have a valid ____ ready for inspection.",
+   "options": [
+    "travel brochure",
+    "passport",
+    "souvenir",
+    "receipt"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 4,
+   "stem": "Peter: Judy, I hope our ____ at the restaurant is confirmed. Judy: Don’t worry, I received the confirmation email this morning.",
+   "options": [
+    "reservation",
+    "city map",
+    "travel guidebook",
+    "luggage tag"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 5,
+   "stem": "If you plan to try some ____ dishes when traveling to a different country, please do some research about what those dishes are.",
+   "options": [
+    "exotic",
+    "instinct",
+    "contrastive",
+    "known"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 6,
+   "stem": "In many major US cities, people can visit the shopping ____ there to make purchases.",
+   "options": [
+    "locales",
+    "hallmarks",
+    "mansions",
+    "districts"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 7,
+   "stem": "Be ready for the warm-hearted ____ on these streets; they are super friendly and always eager to persuade you to buy their items.",
+   "options": [
+    "vendors",
+    "passersby",
+    "pedestrians",
+    "residents"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 8,
+   "stem": "If you buy some souvenirs from local vendors in Thailand, you should try to ____ for a good deal because the first price offered is usually much higher.",
+   "options": [
+    "commute",
+    "disguise",
+    "strive",
+    "bargain"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 9,
+   "stem": "Guest: The toilet won’t ____. Receptionist: We’ll send a repairperson within half an hour.",
+   "options": [
+    "block",
+    "flash",
+    "flush",
+    "crush"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 10,
+   "stem": "This ancient city is a must-visit destination for every tourist to experience the ____ culture and old town atmosphere.",
+   "options": [
+    "modern",
+    "temporary",
+    "traditional",
+    "brief"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 11,
+   "stem": "The view gets even more romantic at night as cherry trees along the river are lighted up by charming paper ____.",
+   "options": [
+    "events",
+    "lanterns",
+    "festivals",
+    "rituals"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 12,
+   "stem": "Hanle in Ladakh, northern India, rates “one” (the darkest) on the Bortle scale with 270 clear nights; locals switch off lights to ____ splendid starry skies.",
+   "options": [
+    "reveal",
+    "ignore",
+    "replace",
+    "block"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 13,
+   "stem": "We don’t recommend exchanging your money at the hotel because you won’t get a ____ rate.",
+   "options": [
+    "limited",
+    "wrong",
+    "visible",
+    "fair"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 14,
+   "stem": "To make getting around the city easier, the tour leader suggested that everyone buy a ____, which allows unlimited travel on buses and trains for a set period.",
+   "options": [
+    "brochure",
+    "transportation pass",
+    "boarding pass",
+    "luggage tag"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 15,
+   "stem": "John: Mary, do we need to fill anything out for the souvenirs we bought abroad? Mary: Yes, we need to complete the ____ at the airport for items that may be restricted or taxable.",
+   "options": [
+    "passport",
+    "travel insurance",
+    "boarding pass",
+    "customs declaration form"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 16,
+   "stem": "As an effort to protect our environment, the hotels in this region do not provide ____ and you need to prepare those items by yourself.",
+   "options": [
+    "booklets",
+    "notepads",
+    "issues",
+    "amenities"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 17,
+   "stem": "Tour Leader: How much time should we allow inside the British Museum? Local Guide: About two hours is ideal to see the ____.",
+   "options": [
+    "highlights",
+    "tickets",
+    "staircases",
+    "restaurants"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 18,
+   "stem": "The magnificent waterfall is truly the most ____ feature of this national park.",
+   "options": [
+    "remote",
+    "average",
+    "breathtaking",
+    "boring"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 19,
+   "stem": "When traveling to European countries, tourists are highly recommended to pay attention to the ____ hours of different museums because they vary a lot.",
+   "options": [
+    "establishing",
+    "commercial",
+    "remodeling",
+    "opening"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 20,
+   "stem": "We will stop at this location for two hours, and you are ____ to walk around and make some small purchases.",
+   "options": [
+    "available",
+    "free",
+    "pleased",
+    "surprised"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 21,
+   "stem": "The ____ Northeast Coast is a popular tourist destination that serves both as a fascinating natural classroom and as an enchanting coastal playground.",
+   "options": [
+    "spectacular",
+    "hostile",
+    "artificial",
+    "ordinary"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 22,
+   "stem": "Seriously impacted by a storm last year, this tourist site was under a major ____ for eight months.",
+   "options": [
+    "renovation",
+    "rejuvenation",
+    "imposition",
+    "declaration"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 23,
+   "stem": "In a tour package with a set content, if you want to ____ an additional service, you might not get it.",
+   "options": [
+    "advocate",
+    "suggest",
+    "request",
+    "introduce"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 24,
+   "stem": "When you enter churches or cathedrals, please remember to turn your phone to ____ mode.",
+   "options": [
+    "quite",
+    "mobile",
+    "shared",
+    "silent"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 25,
+   "stem": "We have prepared a pin for you to wear on your backpack, so the members in our group can ____ one another very easily.",
+   "options": [
+    "recognize",
+    "witness",
+    "splash",
+    "conduct"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 26,
+   "stem": "Even though this is an all-you-can-eat restaurant, you should still try to get only the ____ of food that you need to prevent unnecessary waste.",
+   "options": [
+    "form",
+    "portion",
+    "value",
+    "mass"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 27,
+   "stem": "If you have nothing to ____, simply walk through the Green Channel, stopping only if asked to do so by a customs agent.",
+   "options": [
+    "pay",
+    "declare",
+    "hide",
+    "regret"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 28,
+   "stem": "Politely ____ and walk away if you feel uncomfortable with a taxi driver’s or a vendor’s offer.",
+   "options": [
+    "hide",
+    "excite",
+    "decline",
+    "struggle"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 29,
+   "stem": "Passenger: How long is my ticket good for? Station staff: It’s good until the ____ date written on the ticket.",
+   "options": [
+    "inspiration",
+    "deduction",
+    "depression",
+    "expiration"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 30,
+   "stem": "Mary: John, do you know when ____ will start for our flight? John: Yes, it begins at 9:15 A.M. at Gate 7.",
+   "options": [
+    "boarding",
+    "duty-free shopping",
+    "terminal",
+    "luggage"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 31,
+   "stem": "When visiting museums and other attractions in Paris, even if you have purchased a museum pass, making a(n) ____ is still required.",
+   "options": [
+    "recommendation",
+    "reservation",
+    "accommodation",
+    "assimilation"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 32,
+   "stem": "Officers at ____ check all passports and visas before travelers can enter the country.",
+   "options": [
+    "baggage claim",
+    "lounge",
+    "information desk",
+    "immigration"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 33,
+   "stem": "Please keep a safe ____ between yourself and the cliff edge while taking photos.",
+   "options": [
+    "vehicle",
+    "direction",
+    "guide",
+    "distance"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 34,
+   "stem": "The crowd waited anxiously at the terminal for the ____ of the VIP guests.",
+   "options": [
+    "preference",
+    "decoration",
+    "agony",
+    "arrival"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 35,
+   "stem": "The city’s urban center is quite compact and easy to ____ on foot or by bike.",
+   "options": [
+    "permit",
+    "explore",
+    "break",
+    "restore"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 36,
+   "stem": "Littering in natural parks can _____ the beauty tourists come to admire.",
+   "options": [
+    "protect",
+    "repair",
+    "decorate",
+    "destroy"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 37,
+   "stem": "Tourist: ____ Tour Guide: Yes, but please turn off the camera flash.",
+   "options": [
+    "Can we take photos inside the temple?",
+    "How much does the entrance ticket cost today?",
+    "Where is the nearest souvenir shop located?",
+    "Do we have lunch included in today’s schedule?"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 38,
+   "stem": "The destination is a big city with ____ tourist attractions; we plan to visit at least six or more of the most recommended ones.",
+   "options": [
+    "few",
+    "limited",
+    "narrow",
+    "countless"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 39,
+   "stem": "In England, tax ____ is done in airports rather than in the shops where you make purchases.",
+   "options": [
+    "recharge",
+    "evasion",
+    "refund",
+    "production"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 40,
+   "stem": "As a result of ____ caused by the air-traffic controllers’ strike, our flight couldn’t land in Paris.",
+   "options": [
+    "disruption",
+    "construction",
+    "instruction",
+    "destination"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 41,
+   "stem": "Before going on the adventure tour, the travel agency advised all participants to check their ____ to ensure medical expenses and trip cancellations are included.",
+   "options": [
+    "hotel booking",
+    "travel itinerary",
+    "insurance coverage",
+    "flight ticket"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 42,
+   "stem": "Passengers simply add value to a smart card and swipe it at the gate to enter. The fare is automatically ____.",
+   "options": [
+    "deducted",
+    "increased",
+    "reduced",
+    "returned"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 43,
+   "stem": "____ the noise from the hallway, the couple decided to call the front desk and file a formal complaint.",
+   "options": [
+    "Responsible for",
+    "In lieu of",
+    "Being stuck with",
+    "Fed up with"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 44,
+   "stem": "Passenger: Is there Wi-Fi available on this flight? Flight Attendant: Yes, you can ____ after takeoff using the instructions provided.",
+   "options": [
+    "connect",
+    "sleep",
+    "stretch",
+    "clap"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 45,
+   "stem": "In Japan, if you want to enter a shrine to visit the inner structure and content, you have to pay attention to see if your outfit is ____ or not; for example, sandals are not suggested.",
+   "options": [
+    "approximate",
+    "aggravating",
+    "accelerated",
+    "appropriate"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 46,
+   "stem": "These essential travel ____ will help you avoid common travel mistakes and make the most of your journey.",
+   "options": [
+    "pickpockets",
+    "tips",
+    "vouchers",
+    "peaks"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 47,
+   "stem": "Tour Guide: Everyone, please form a ____ to enter the gallery in an orderly manner. Tour Member: Okay, we’ll wait our turn.",
+   "options": [
+    "path",
+    "shortcut",
+    "queue",
+    "detour"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 48,
+   "stem": "On the city tour, the guide asked everyone to take a photo in front of the famous ____ that represents the history of the area.",
+   "options": [
+    "magnitude",
+    "landmark",
+    "brochure",
+    "souvenir"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 49,
+   "stem": "Our hotel is a bit far away from the city center; if you need to buy some ____, there is a small store nearby.",
+   "options": [
+    "groceries",
+    "categories",
+    "warnings",
+    "reminders"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 50,
+   "stem": "A local travel agency hung several scenic posters in the company window to ____ pedestrians to come inside and purchase their historical tour.",
+   "options": [
+    "retract",
+    "attract",
+    "distract",
+    "deprive"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 51,
+   "stem": "During a crowded flight, she requested ____ to avoid disturbing neighbors when standing up.",
+   "options": [
+    "reclined seat",
+    "window seat",
+    "middle seat",
+    "aisle seat"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 52,
+   "stem": "Passenger: Can I change my seat to 22K? Flight Attendant: I’ll check ____ and let you know immediately.",
+   "options": [
+    "luggage",
+    "availability",
+    "passport",
+    "schedule"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 53,
+   "stem": "Flight Attendant: Sir, please switch off your mobile phone as we are about to ____.",
+   "options": [
+    "get rid of",
+    "put off",
+    "remove",
+    "take off"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 54,
+   "stem": "When you encounter crowds in a popular tourist site, remember to pay more attention to your ____.",
+   "options": [
+    "locals",
+    "simulations",
+    "indications",
+    "surroundings"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 55,
+   "stem": "This is a non-smoking restaurant. Please ____ your cigarette at once.",
+   "options": [
+    "put in",
+    "put on",
+    "put out",
+    "put up"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 56,
+   "stem": "In the areas around this lake, you can find many ____ selling refined clothes and local handicrafts.",
+   "options": [
+    "buildings",
+    "centers",
+    "cascades",
+    "boutiques"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 57,
+   "stem": "Passenger: Could you help me place my bag overhead? Flight Attendant: ____",
+   "options": [
+    "The movie will start on the in-flight screen in ten minutes.",
+    "Absolutely, let me lift it for you safely.",
+    "Would you like some water or juice with your meal?",
+    "The restroom is located at the back of the aircraft."
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 58,
+   "stem": "Find out why customers have come on holidays, what they want to do, and then help them to ____ their dream.",
+   "options": [
+    "alternate",
+    "achieve",
+    "authorize",
+    "amend"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 59,
+   "stem": "When our group visited a church this morning, we got a glimpse of how the priest performed a local ____.",
+   "options": [
+    "holiday",
+    "contest",
+    "ritual",
+    "stanza"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 60,
+   "stem": "In many museums, touching the exhibited items is a behavior that is absolutely ____.",
+   "options": [
+    "regulated",
+    "prohibited",
+    "discussed",
+    "persecuted"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 61,
+   "stem": "Let me calculate your bill for you. It all ____ NT$15,000, Sir.",
+   "options": [
+    "stands for",
+    "adds up to",
+    "checks out",
+    "brings down to"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 62,
+   "stem": "Aliens who overstay their visas would be ____ back to their country of birth.",
+   "options": [
+    "deported",
+    "discharged",
+    "departed",
+    "disclaimed"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 63,
+   "stem": "This artist’s ____ are on exhibition at the museum.",
+   "options": [
+    "workouts",
+    "presences",
+    "masterminds",
+    "masterpieces"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 64,
+   "stem": "It is common sense that before booking your international flight, you should always check the ____ of your passport to ensure it meets the entry requirements for your destination country.",
+   "options": [
+    "effect",
+    "validity",
+    "inquiry",
+    "limit"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 65,
+   "stem": "Tourists on the plane were reminded how to use oxygen masks in case of ____.",
+   "options": [
+    "ambulance",
+    "emergency",
+    "evacuation",
+    "rescue"
+   ],
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 66,
+   "stem": "Drawing many people’s attention, Jurassic World: The Experience at Cloud Forest is one of the most recently added ____ in Singapore.",
+   "options": [
+    "enterprises",
+    "amenities",
+    "expenses",
+    "attractions"
+   ],
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 67,
+   "stem": "That museum is very old and not friendly to tourists who need elevator ____.",
+   "options": [
+    "access",
+    "report",
+    "faculty",
+    "entrance"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 68,
+   "stem": "The ____ of this building is typical of the Renaissance age, and many tourists enjoy visiting this place.",
+   "options": [
+    "formulation",
+    "speculation",
+    "architecture",
+    "affiliation"
+   ],
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 69,
+   "stem": "Escort: Could you pull over safely and switch on the ____ warning lights, please? We have a guest who needs medical help. Driver: Understood.",
+   "options": [
+    "hazard",
+    "headlights",
+    "turn-signal",
+    "cabin"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 70,
+   "stem": "While we are ____ to our next destination, I will point out the beautiful beach and the famous golf course for your reference.",
+   "options": [
+    "en route",
+    "scheduling",
+    "declining",
+    "digressive"
+   ],
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 71,
+   "stem": "What is a suitable title for this passage?",
+   "options": [
+    "Making Plans for Traveling",
+    "Benefits Brought by Tourism",
+    "Effects Caused by Tourism",
+    "Tips on Tourism Development"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 72,
+   "stem": "Which of the following statements is NOT true?",
+   "options": [
+    "For an area rich in natural beauty, tourism often becomes a primary source of income.",
+    "Tourism-related industries are the only ones benefiting from the visits of tourists.",
+    "The money brought in by tourism development can create job opportunities.",
+    "One negative effect of tourism is that the money generated is not equally distributed."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 73,
+   "stem": "Based on the information presented in this passage, what can be inferred?",
+   "options": [
+    "Towns around national parks often benefit from tourism development.",
+    "Most revenues generated from tourism development go to the companies owned by locals.",
+    "City governments benefit a lot from the income generated by tourism development.",
+    "The benefits brought by tourism development outweigh the disadvantages."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 74,
+   "stem": "According to this article, why is the money generated from tourism development not equitably distributed?",
+   "options": [
+    "There are too many parties involved in the development of tourism.",
+    "The money generated often goes to the local companies rather than local communities.",
+    "The money generated mostly goes to large and foreign-owned companies, not to the small local businesses.",
+    "Most money from tourism development has gone to the central government."
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 75,
+   "stem": "What can be described as the purpose of this passage?",
+   "options": [
+    "Reminding readers the merits and concerns about tourism development",
+    "Warning readers about the existence of foreign-owned companies",
+    "Explaining why tourism development should be encouraged",
+    "Emphasizing the intervention of government agencies"
+   ],
+   "passage": "p71-75",
+   "answer": [
+    "A"
+   ]
+  },
+  {
+   "no": 76,
+   "stem": "What is the main focus of this passage?",
+   "options": [
+    "The economic growth of Travel & Tourism",
+    "The challenges and progress towards net zero in Travel & Tourism",
+    "The decline of SMEs in global industries",
+    "The development of new luxury travel destinations"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 77,
+   "stem": "What does the article say about many businesses’ climate targets?",
+   "options": [
+    "They are already fully aligned with the latest science.",
+    "They are not yet based on the latest science, but many are revising them.",
+    "They are mostly focused on reducing plastic waste.",
+    "They are unnecessary because of strong recovery in tourism."
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "B"
+   ]
+  },
+  {
+   "no": 78,
+   "stem": "What does the word “fragmented” in the phrase “fragmented regulatory landscape” most nearly mean?",
+   "options": [
+    "Well-organized",
+    "Strong and united",
+    "Broken into parts",
+    "Easy to manage"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "C"
+   ]
+  },
+  {
+   "no": 79,
+   "stem": "Which of the following is NOT mentioned as a challenge to the environment-friendly goal of the Travel & Tourism sector?",
+   "options": [
+    "Scope 3 emission measurement",
+    "Inconsistencies in reporting standards",
+    "Insufficient budgets",
+    "Lack of tourist interest"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "D"
+   ]
+  },
+  {
+   "no": 80,
+   "stem": "According to the text, which of the following is necessary to achieve net zero before 2050?",
+   "options": [
+    "Increasing the use of new technologies and alternative fuels",
+    "Reducing international travel completely",
+    "Closing SMEs to reduce emissions",
+    "Stopping volume recovery in tourism"
+   ],
+   "passage": "p76-80",
+   "answer": [
+    "A"
+   ]
+  }
+ ]
+}
